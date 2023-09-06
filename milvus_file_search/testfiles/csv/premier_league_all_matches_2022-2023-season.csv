@@ -1,0 +1,381 @@
+﻿Date,Home Team,Score,Away Team,Attendance,Venue
+8/5/2022,Crystal Palace,0 x 2,Arsenal,25286,Selhurst Park
+8/6/2022,Bournemouth,2 x 0,Aston Villa,11013,Vitality Stadium
+8/6/2022,Everton,0 x 1,Chelsea,39254,Goodison Park
+8/6/2022,Fulham,2 x 2,Liverpool,22207,Craven Cottage
+8/6/2022,Leeds United,2 x 1,Wolves,36347,Elland Road
+8/6/2022,Newcastle Utd,2 x 0,Nott'ham Forest,52245,St James' Park
+8/6/2022,Tottenham,4 x 1,Southampton,61732,Tottenham Hotspur Stadium
+8/7/2022,Leicester City,2 x 2,Brentford,31794,King Power Stadium
+8/7/2022,Manchester Utd,1 x 2,Brighton,73711,Old Trafford
+8/7/2022,West Ham,0 x 2,Manchester City,62443,London Stadium
+8/13/2022,Arsenal,4 x 2,Leicester City,60033,Emirates Stadium
+8/13/2022,Aston Villa,2 x 1,Everton,41883,Villa Park
+8/13/2022,Brentford,4 x 0,Manchester Utd,17051,Brentford Community Stadium
+8/13/2022,Brighton,0 x 0,Newcastle Utd,31552,The American Express Community Stadium
+8/13/2022,Manchester City,4 x 0,Bournemouth,53453,Etihad Stadium
+8/13/2022,Southampton,2 x 2,Leeds United,30815,St. Mary's Stadium
+8/13/2022,Wolves,0 x 0,Fulham,31178,Molineux Stadium
+8/14/2022,Chelsea,2 x 2,Tottenham,39946,Stamford Bridge
+8/14/2022,Nott'ham Forest,1 x 0,West Ham,29281,The City Ground
+8/15/2022,Liverpool,1 x 1,Crystal Palace,52970,Anfield
+8/20/2022,Bournemouth,0 x 3,Arsenal,10423,Vitality Stadium
+8/20/2022,Crystal Palace,3 x 1,Aston Villa,22012,Selhurst Park
+8/20/2022,Everton,1 x 1,Nott'ham Forest,39271,Goodison Park
+8/20/2022,Fulham,3 x 2,Brentford,21798,Craven Cottage
+8/20/2022,Leicester City,1 x 2,Southampton,30850,King Power Stadium
+8/20/2022,Tottenham,1 x 0,Wolves,61298,Tottenham Hotspur Stadium
+8/21/2022,Leeds United,3 x 0,Chelsea,36372,Elland Road
+8/21/2022,Newcastle Utd,3 x 3,Manchester City,52258,St James' Park
+8/21/2022,West Ham,0 x 2,Brighton,62449,London Stadium
+8/22/2022,Manchester Utd,2 x 1,Liverpool,74147,Old Trafford
+8/27/2022,Arsenal,2 x 1,Fulham,60164,Emirates Stadium
+8/27/2022,Brentford,1 x 1,Everton,17009,Brentford Community Stadium
+8/27/2022,Brighton,1 x 0,Leeds United,30953,The American Express Community Stadium
+8/27/2022,Chelsea,2 x 1,Leicester City,39953,Stamford Bridge
+8/27/2022,Liverpool,9 x 0,Bournemouth,53328,Anfield
+8/27/2022,Manchester City,4 x 2,Crystal Palace,53112,Etihad Stadium
+8/27/2022,Southampton,0 x 1,Manchester Utd,31196,St. Mary's Stadium
+8/28/2022,Aston Villa,0 x 1,West Ham,41796,Villa Park
+8/28/2022,Nott'ham Forest,0 x 2,Tottenham,29296,The City Ground
+8/28/2022,Wolves,1 x 1,Newcastle Utd,31311,Molineux Stadium
+8/30/2022,Crystal Palace,1 x 1,Brentford,25043,Selhurst Park
+8/30/2022,Fulham,2 x 1,Brighton,22224,Craven Cottage
+8/30/2022,Leeds United,1 x 1,Everton,36338,Elland Road
+8/30/2022,Southampton,2 x 1,Chelsea,31542,St. Mary's Stadium
+8/31/2022,Arsenal,2 x 1,Aston Villa,60012,Emirates Stadium
+8/31/2022,Bournemouth,0 x 0,Wolves,10113,Vitality Stadium
+8/31/2022,Liverpool,2 x 1,Newcastle Utd,53316,Anfield
+8/31/2022,Manchester City,6 x 0,Nott'ham Forest,53409,Etihad Stadium
+8/31/2022,West Ham,1 x 1,Tottenham,62450,London Stadium
+9/1/2022,Leicester City,0 x 1,Manchester Utd,32226,King Power Stadium
+9/3/2022,Aston Villa,1 x 1,Manchester City,41830,Villa Park
+9/3/2022,Brentford,5 x 2,Leeds United,17092,Brentford Community Stadium
+9/3/2022,Chelsea,2 x 1,West Ham,39923,Stamford Bridge
+9/3/2022,Everton,0 x 0,Liverpool,39240,Goodison Park
+9/3/2022,Newcastle Utd,0 x 0,Crystal Palace,51863,St James' Park
+9/3/2022,Nott'ham Forest,2 x 3,Bournemouth,28720,The City Ground
+9/3/2022,Tottenham,2 x 1,Fulham,61641,Tottenham Hotspur Stadium
+9/3/2022,Wolves,1 x 0,Southampton,30546,Molineux Stadium
+9/4/2022,Brighton,5 x 2,Leicester City,31185,The American Express Community Stadium
+9/4/2022,Manchester Utd,3 x 1,Arsenal,73431,Old Trafford
+9/16/2022,Aston Villa,1 x 0,Southampton,40758,Villa Park
+9/16/2022,Nott'ham Forest,2 x 3,Fulham,28654,The City Ground
+9/17/2022,Newcastle Utd,1 x 1,Bournemouth,52238,St James' Park
+9/17/2022,Tottenham,6 x 2,Leicester City,61450,Tottenham Hotspur Stadium
+9/17/2022,Wolves,0 x 3,Manchester City,31578,Molineux Stadium
+9/18/2022,Brentford,0 x 3,Arsenal,17122,Brentford Community Stadium
+9/18/2022,Everton,1 x 0,West Ham,39298,Goodison Park
+10/1/2022,Arsenal,3 x 1,Tottenham,60278,Emirates Stadium
+10/1/2022,Bournemouth,0 x 0,Brentford,10126,Vitality Stadium
+10/1/2022,Crystal Palace,1 x 2,Chelsea,25198,Selhurst Park
+10/1/2022,Fulham,1 x 4,Newcastle Utd,22913,Craven Cottage
+10/1/2022,Liverpool,3 x 3,Brighton,53320,Anfield
+10/1/2022,Southampton,1 x 2,Everton,30510,St. Mary's Stadium
+10/1/2022,West Ham,2 x 0,Wolves,62444,London Stadium
+10/2/2022,Leeds United,0 x 0,Aston Villa,36582,Elland Road
+10/2/2022,Manchester City,6 x 3,Manchester Utd,53475,Etihad Stadium
+10/3/2022,Leicester City,4 x 0,Nott'ham Forest,32202,King Power Stadium
+10/8/2022,Bournemouth,2 x 1,Leicester City,10272,Vitality Stadium
+10/8/2022,Brighton,0 x 1,Tottenham,31498,The American Express Community Stadium
+10/8/2022,Chelsea,3 x 0,Wolves,39940,Stamford Bridge
+10/8/2022,Manchester City,4 x 0,Southampton,53365,Etihad Stadium
+10/8/2022,Newcastle Utd,5 x 1,Brentford,52067,St James' Park
+10/9/2022,Arsenal,3 x 2,Liverpool,60059,Emirates Stadium
+10/9/2022,Crystal Palace,2 x 1,Leeds United,25042,Selhurst Park
+10/9/2022,Everton,1 x 2,Manchester Utd,39258,Goodison Park
+10/9/2022,West Ham,3 x 1,Fulham,62407,London Stadium
+10/10/2022,Nott'ham Forest,1 x 1,Aston Villa,29208,The City Ground
+10/14/2022,Brentford,2 x 0,Brighton,17016,Brentford Community Stadium
+10/15/2022,Fulham,2 x 2,Bournemouth,22541,Craven Cottage
+10/15/2022,Leicester City,0 x 0,Crystal Palace,31298,King Power Stadium
+10/15/2022,Tottenham,2 x 0,Everton,61812,Tottenham Hotspur Stadium
+10/15/2022,Wolves,1 x 0,Nott'ham Forest,31554,Molineux Stadium
+10/16/2022,Aston Villa,0 x 2,Chelsea,41754,Villa Park
+10/16/2022,Leeds United,0 x 1,Arsenal,36700,Elland Road
+10/16/2022,Liverpool,1 x 0,Manchester City,53286,Anfield
+10/16/2022,Manchester Utd,0 x 0,Newcastle Utd,73726,Old Trafford
+10/16/2022,Southampton,1 x 1,West Ham,29159,St. Mary's Stadium
+10/18/2022,Brighton,0 x 0,Nott'ham Forest,31463,The American Express Community Stadium
+10/18/2022,Crystal Palace,2 x 1,Wolves,25125,Selhurst Park
+10/19/2022,Bournemouth,0 x 1,Southampton,10405,Vitality Stadium
+10/19/2022,Brentford,0 x 0,Chelsea,17118,Brentford Community Stadium
+10/19/2022,Liverpool,1 x 0,West Ham,52982,Anfield
+10/19/2022,Manchester Utd,2 x 0,Tottenham,73677,Old Trafford
+10/19/2022,Newcastle Utd,1 x 0,Everton,52247,St James' Park
+10/20/2022,Fulham,3 x 0,Aston Villa,23508,Craven Cottage
+10/20/2022,Leicester City,2 x 0,Leeds United,30814,King Power Stadium
+10/22/2022,Chelsea,1 x 1,Manchester Utd,39503,Stamford Bridge
+10/22/2022,Everton,3 x 0,Crystal Palace,38939,Goodison Park
+10/22/2022,Manchester City,3 x 1,Brighton,53223,Etihad Stadium
+10/22/2022,Nott'ham Forest,1 x 0,Liverpool,29245,The City Ground
+10/23/2022,Aston Villa,4 x 0,Brentford,41693,Villa Park
+10/23/2022,Leeds United,2 x 3,Fulham,36447,Elland Road
+10/23/2022,Southampton,1 x 1,Arsenal,31145,St. Mary's Stadium
+10/23/2022,Tottenham,1 x 2,Newcastle Utd,61726,Tottenham Hotspur Stadium
+10/23/2022,Wolves,0 x 4,Leicester City,31425,Molineux Stadium
+10/24/2022,West Ham,2 x 0,Bournemouth,62447,London Stadium
+10/29/2022,Bournemouth,2 x 3,Tottenham,10430,Vitality Stadium
+10/29/2022,Brentford,1 x 1,Wolves,17051,Brentford Community Stadium
+10/29/2022,Brighton,4 x 1,Chelsea,31746,The American Express Community Stadium
+10/29/2022,Crystal Palace,1 x 0,Southampton,25130,Selhurst Park
+10/29/2022,Fulham,0 x 0,Everton,23534,Craven Cottage
+10/29/2022,Leicester City,0 x 1,Manchester City,32223,King Power Stadium
+10/29/2022,Liverpool,1 x 2,Leeds United,53274,Anfield
+10/29/2022,Newcastle Utd,4 x 0,Aston Villa,52233,St James' Park
+10/30/2022,Arsenal,5 x 0,Nott'ham Forest,60263,Emirates Stadium
+10/30/2022,Manchester Utd,1 x 0,West Ham,73682,Old Trafford
+11/5/2022,Everton,0 x 2,Leicester City,39206,Goodison Park
+11/5/2022,Leeds United,4 x 3,Bournemouth,36304,Elland Road
+11/5/2022,Manchester City,2 x 1,Fulham,52395,Etihad Stadium
+11/5/2022,Nott'ham Forest,2 x 2,Brentford,28869,The City Ground
+11/5/2022,Wolves,2 x 3,Brighton,30732,Molineux Stadium
+11/6/2022,Aston Villa,3 x 1,Manchester Utd,42058,Villa Park
+11/6/2022,Chelsea,0 x 1,Arsenal,40142,Stamford Bridge
+11/6/2022,Southampton,1 x 4,Newcastle Utd,30402,St. Mary's Stadium
+11/6/2022,Tottenham,1 x 2,Liverpool,62008,Tottenham Hotspur Stadium
+11/6/2022,West Ham,1 x 2,Crystal Palace,62451,London Stadium
+11/12/2022,Bournemouth,3 x 0,Everton,10382,Vitality Stadium
+11/12/2022,Liverpool,3 x 1,Southampton,53331,Anfield
+11/12/2022,Manchester City,1 x 2,Brentford,52786,Etihad Stadium
+11/12/2022,Newcastle Utd,1 x 0,Chelsea,52264,St James' Park
+11/12/2022,Nott'ham Forest,1 x 0,Crystal Palace,29045,The City Ground
+11/12/2022,Tottenham,4 x 3,Leeds United,61667,Tottenham Hotspur Stadium
+11/12/2022,West Ham,0 x 2,Leicester City,62459,London Stadium
+11/12/2022,Wolves,0 x 2,Arsenal,34624,Molineux Stadium
+11/13/2022,Brighton,1 x 2,Aston Villa,31581,The American Express Community Stadium
+11/13/2022,Fulham,1 x 2,Manchester Utd,24246,Craven Cottage
+12/26/2022,Arsenal,3 x 1,West Ham,60125,Emirates Stadium
+12/26/2022,Aston Villa,1 x 3,Liverpool,42085,Villa Park
+12/26/2022,Brentford,2 x 2,Tottenham,17137,Brentford Community Stadium
+12/26/2022,Crystal Palace,0 x 3,Fulham,25176,Selhurst Park
+12/26/2022,Everton,1 x 2,Wolves,39252,Goodison Park
+12/26/2022,Leicester City,0 x 3,Newcastle Utd,32185,King Power Stadium
+12/26/2022,Southampton,1 x 3,Brighton,31010,St. Mary's Stadium
+12/27/2022,Chelsea,2 x 0,Bournemouth,40046,Stamford Bridge
+12/27/2022,Manchester Utd,3 x 0,Nott'ham Forest,73608,Old Trafford
+12/28/2022,Leeds United,1 x 3,Manchester City,36889,Elland Road
+12/30/2022,Liverpool,2 x 1,Leicester City,53343,Anfield
+12/30/2022,West Ham,0 x 2,Brentford,62467,London Stadium
+12/31/2022,Bournemouth,0 x 2,Crystal Palace,9972,Vitality Stadium
+12/31/2022,Brighton,2 x 4,Arsenal,31647,The American Express Community Stadium
+12/31/2022,Fulham,2 x 1,Southampton,24344,Craven Cottage
+12/31/2022,Manchester City,1 x 1,Everton,53444,Etihad Stadium
+12/31/2022,Newcastle Utd,0 x 0,Leeds United,52211,St James' Park
+12/31/2022,Wolves,0 x 1,Manchester Utd,31658,Molineux Stadium
+1/1/2023,Nott'ham Forest,1 x 1,Chelsea,29229,The City Ground
+1/1/2023,Tottenham,0 x 2,Aston Villa,61651,Tottenham Hotspur Stadium
+1/2/2023,Brentford,3 x 1,Liverpool,17163,Brentford Community Stadium
+1/3/2023,Arsenal,0 x 0,Newcastle Utd,60319,Emirates Stadium
+1/3/2023,Everton,1 x 4,Brighton,39103,Goodison Park
+1/3/2023,Leicester City,0 x 1,Fulham,30813,King Power Stadium
+1/3/2023,Manchester Utd,3 x 0,Bournemouth,73322,Old Trafford
+1/4/2023,Aston Villa,1 x 1,Wolves,39978,Villa Park
+1/4/2023,Crystal Palace,0 x 4,Tottenham,25132,Selhurst Park
+1/4/2023,Leeds United,2 x 2,West Ham,36173,Elland Road
+1/4/2023,Southampton,0 x 1,Nott'ham Forest,30150,St. Mary's Stadium
+1/5/2023,Chelsea,0 x 1,Manchester City,39998,Stamford Bridge
+1/12/2023,Fulham,2 x 1,Chelsea,24460,Craven Cottage
+1/13/2023,Aston Villa,2 x 1,Leeds United,42008,Villa Park
+1/14/2023,Brentford,2 x 0,Bournemouth,17031,Brentford Community Stadium
+1/14/2023,Brighton,3 x 0,Liverpool,31645,The American Express Community Stadium
+1/14/2023,Everton,1 x 2,Southampton,39305,Goodison Park
+1/14/2023,Manchester Utd,2 x 1,Manchester City,75546,Old Trafford
+1/14/2023,Nott'ham Forest,2 x 0,Leicester City,29301,The City Ground
+1/14/2023,Wolves,1 x 0,West Ham,31511,Molineux Stadium
+1/15/2023,Chelsea,1 x 0,Crystal Palace,40075,Stamford Bridge
+1/15/2023,Newcastle Utd,1 x 0,Fulham,52247,St James' Park
+1/15/2023,Tottenham,0 x 2,Arsenal,61870,Tottenham Hotspur Stadium
+1/18/2023,Crystal Palace,1 x 1,Manchester Utd,23343,Selhurst Park
+1/19/2023,Manchester City,4 x 2,Tottenham,53088,Etihad Stadium
+1/21/2023,Bournemouth,1 x 1,Nott'ham Forest,10248,Vitality Stadium
+1/21/2023,Crystal Palace,0 x 0,Newcastle Utd,25350,Selhurst Park
+1/21/2023,Leicester City,2 x 2,Brighton,32056,King Power Stadium
+1/21/2023,Liverpool,0 x 0,Chelsea,53126,Anfield
+1/21/2023,Southampton,0 x 1,Aston Villa,30158,St. Mary's Stadium
+1/21/2023,West Ham,2 x 0,Everton,62470,London Stadium
+1/22/2023,Arsenal,3 x 2,Manchester Utd,60325,Emirates Stadium
+1/22/2023,Leeds United,0 x 0,Brentford,36260,Elland Road
+1/22/2023,Manchester City,3 x 0,Wolves,53282,Etihad Stadium
+1/23/2023,Fulham,0 x 1,Tottenham,24190,Craven Cottage
+2/3/2023,Chelsea,0 x 0,Fulham,40041,Stamford Bridge
+2/4/2023,Aston Villa,2 x 4,Leicester City,42055,Villa Park
+2/4/2023,Brentford,3 x 0,Southampton,17051,Brentford Community Stadium
+2/4/2023,Brighton,1 x 0,Bournemouth,31600,The American Express Community Stadium
+2/4/2023,Everton,1 x 0,Arsenal,39314,Goodison Park
+2/4/2023,Manchester Utd,2 x 1,Crystal Palace,73420,Old Trafford
+2/4/2023,Newcastle Utd,1 x 1,West Ham,52256,St James' Park
+2/4/2023,Wolves,3 x 0,Liverpool,31664,Molineux Stadium
+2/5/2023,Nott'ham Forest,1 x 0,Leeds United,29363,The City Ground
+2/5/2023,Tottenham,1 x 0,Manchester City,61747,Tottenham Hotspur Stadium
+2/8/2023,Manchester Utd,2 x 2,Leeds United,73456,Old Trafford
+2/11/2023,Arsenal,1 x 1,Brentford,60254,Emirates Stadium
+2/11/2023,Bournemouth,1 x 1,Newcastle Utd,10419,Vitality Stadium
+2/11/2023,Crystal Palace,1 x 1,Brighton,24827,Selhurst Park
+2/11/2023,Fulham,2 x 0,Nott'ham Forest,24244,Craven Cottage
+2/11/2023,Leicester City,4 x 1,Tottenham,32184,King Power Stadium
+2/11/2023,Southampton,1 x 2,Wolves,29751,St. Mary's Stadium
+2/11/2023,West Ham,1 x 1,Chelsea,62471,London Stadium
+2/12/2023,Leeds United,0 x 2,Manchester Utd,36919,Elland Road
+2/12/2023,Manchester City,3 x 1,Aston Villa,53392,Etihad Stadium
+2/13/2023,Liverpool,2 x 0,Everton,53027,Anfield
+2/15/2023,Arsenal,1 x 3,Manchester City,60276,Emirates Stadium
+2/18/2023,Aston Villa,2 x 4,Arsenal,42066,Villa Park
+2/18/2023,Brentford,1 x 1,Crystal Palace,17122,Brentford Community Stadium
+2/18/2023,Brighton,0 x 1,Fulham,31619,The American Express Community Stadium
+2/18/2023,Chelsea,0 x 1,Southampton,40152,Stamford Bridge
+2/18/2023,Everton,1 x 0,Leeds United,39232,Goodison Park
+2/18/2023,Newcastle Utd,0 x 2,Liverpool,52758,St James' Park
+2/18/2023,Nott'ham Forest,1 x 1,Manchester City,29365,The City Ground
+2/18/2023,Wolves,0 x 1,Bournemouth,31222,Molineux Stadium
+2/19/2023,Manchester Utd,3 x 0,Leicester City,73578,Old Trafford
+2/19/2023,Tottenham,2 x 0,West Ham,61476,Tottenham Hotspur Stadium
+2/24/2023,Fulham,1 x 1,Wolves,24399,Craven Cottage
+2/25/2023,Bournemouth,1 x 4,Manchester City,10481,Vitality Stadium
+2/25/2023,Crystal Palace,0 x 0,Liverpool,25842,Selhurst Park
+2/25/2023,Everton,0 x 2,Aston Villa,39309,Goodison Park
+2/25/2023,Leeds United,1 x 0,Southampton,36641,Elland Road
+2/25/2023,Leicester City,0 x 1,Arsenal,32227,King Power Stadium
+2/25/2023,West Ham,4 x 0,Nott'ham Forest,62469,London Stadium
+2/26/2023,Tottenham,2 x 0,Chelsea,61613,Tottenham Hotspur Stadium
+3/1/2023,Arsenal,4 x 0,Everton,60213,Emirates Stadium
+3/1/2023,Liverpool,2 x 0,Wolves,53259,Anfield
+3/4/2023,Arsenal,3 x 2,Bournemouth,60222,Emirates Stadium
+3/4/2023,Aston Villa,1 x 0,Crystal Palace,41893,Villa Park
+3/4/2023,Brighton,4 x 0,West Ham,31523,The American Express Community Stadium
+3/4/2023,Chelsea,1 x 0,Leeds United,39905,Stamford Bridge
+3/4/2023,Manchester City,2 x 0,Newcastle Utd,53419,Etihad Stadium
+3/4/2023,Southampton,1 x 0,Leicester City,30139,St. Mary's Stadium
+3/4/2023,Wolves,1 x 0,Tottenham,31585,Molineux Stadium
+3/5/2023,Liverpool,7 x 0,Manchester Utd,53001,Anfield
+3/5/2023,Nott'ham Forest,2 x 2,Everton,29353,The City Ground
+3/6/2023,Brentford,3 x 2,Fulham,17025,Brentford Community Stadium
+3/11/2023,Bournemouth,1 x 0,Liverpool,10536,Vitality Stadium
+3/11/2023,Crystal Palace,0 x 1,Manchester City,25844,Selhurst Park
+3/11/2023,Everton,1 x 0,Brentford,39274,Goodison Park
+3/11/2023,Leeds United,2 x 2,Brighton,36471,Elland Road
+3/11/2023,Leicester City,1 x 3,Chelsea,32170,King Power Stadium
+3/11/2023,Tottenham,3 x 1,Nott'ham Forest,61460,Tottenham Hotspur Stadium
+3/12/2023,Fulham,0 x 3,Arsenal,24426,Craven Cottage
+3/12/2023,Manchester Utd,0 x 0,Southampton,73439,Old Trafford
+3/12/2023,Newcastle Utd,2 x 1,Wolves,52240,St James' Park
+3/12/2023,West Ham,1 x 1,Aston Villa,62472,London Stadium
+3/15/2023,Brighton,1 x 0,Crystal Palace,30933,The American Express Community Stadium
+3/15/2023,Southampton,0 x 2,Brentford,30438,St. Mary's Stadium
+3/17/2023,Nott'ham Forest,1 x 2,Newcastle Utd,29362,The City Ground
+3/18/2023,Aston Villa,3 x 0,Bournemouth,41021,Villa Park
+3/18/2023,Brentford,1 x 1,Leicester City,17006,Brentford Community Stadium
+3/18/2023,Chelsea,2 x 2,Everton,40025,Stamford Bridge
+3/18/2023,Southampton,3 x 3,Tottenham,30157,St. Mary's Stadium
+3/18/2023,Wolves,2 x 4,Leeds United,31570,Molineux Stadium
+3/19/2023,Arsenal,4 x 1,Crystal Palace,60247,Emirates Stadium
+4/1/2023,Arsenal,4 x 1,Leeds United,60283,Emirates Stadium
+4/1/2023,Bournemouth,2 x 1,Fulham,10305,Vitality Stadium
+4/1/2023,Brighton,3 x 3,Brentford,31493,The American Express Community Stadium
+4/1/2023,Chelsea,0 x 2,Aston Villa,40082,Stamford Bridge
+4/1/2023,Crystal Palace,2 x 1,Leicester City,25147,Selhurst Park
+4/1/2023,Manchester City,4 x 1,Liverpool,52877,Etihad Stadium
+4/1/2023,Nott'ham Forest,1 x 1,Wolves,29368,The City Ground
+4/2/2023,Newcastle Utd,2 x 0,Manchester Utd,52268,St James' Park
+4/2/2023,West Ham,1 x 0,Southampton,62498,London Stadium
+4/3/2023,Everton,1 x 1,Tottenham,39294,Goodison Park
+4/4/2023,Bournemouth,0 x 2,Brighton,10266,Vitality Stadium
+4/4/2023,Chelsea,0 x 0,Liverpool,40093,Stamford Bridge
+4/4/2023,Leeds United,2 x 1,Nott'ham Forest,36740,Elland Road
+4/4/2023,Leicester City,1 x 2,Aston Villa,32087,King Power Stadium
+4/5/2023,Manchester Utd,1 x 0,Brentford,73309,Old Trafford
+4/5/2023,West Ham,1 x 5,Newcastle Utd,62481,London Stadium
+4/8/2023,Aston Villa,2 x 0,Nott'ham Forest,42076,Villa Park
+4/8/2023,Brentford,1 x 2,Newcastle Utd,17107,Brentford Community Stadium
+4/8/2023,Fulham,0 x 1,West Ham,24491,Craven Cottage
+4/8/2023,Leicester City,0 x 1,Bournemouth,32094,King Power Stadium
+4/8/2023,Manchester Utd,2 x 0,Everton,73509,Old Trafford
+4/8/2023,Southampton,1 x 4,Manchester City,30963,St. Mary's Stadium
+4/8/2023,Tottenham,2 x 1,Brighton,61405,Tottenham Hotspur Stadium
+4/8/2023,Wolves,1 x 0,Chelsea,31614,Molineux Stadium
+4/9/2023,Leeds United,1 x 5,Crystal Palace,36427,Elland Road
+4/9/2023,Liverpool,2 x 2,Arsenal,53267,Anfield
+4/15/2023,Aston Villa,3 x 0,Newcastle Utd,42055,Villa Park
+4/15/2023,Chelsea,1 x 2,Brighton,40126,Stamford Bridge
+4/15/2023,Everton,1 x 3,Fulham,39241,Goodison Park
+4/15/2023,Manchester City,3 x 1,Leicester City,53329,Etihad Stadium
+4/15/2023,Southampton,0 x 2,Crystal Palace,30309,St. Mary's Stadium
+4/15/2023,Tottenham,2 x 3,Bournemouth,61369,Tottenham Hotspur Stadium
+4/15/2023,Wolves,2 x 0,Brentford,30769,Molineux Stadium
+4/16/2023,Nott'ham Forest,0 x 2,Manchester Utd,29435,The City Ground
+4/16/2023,West Ham,2 x 2,Arsenal,62481,London Stadium
+4/17/2023,Leeds United,1 x 6,Liverpool,36657,Elland Road
+4/21/2023,Arsenal,3 x 3,Southampton,60175,Emirates Stadium
+4/22/2023,Brentford,1 x 1,Aston Villa,17098,Brentford Community Stadium
+4/22/2023,Crystal Palace,0 x 0,Everton,25202,Selhurst Park
+4/22/2023,Fulham,2 x 1,Leeds United,24356,Craven Cottage
+4/22/2023,Leicester City,2 x 1,Wolves,32053,King Power Stadium
+4/22/2023,Liverpool,3 x 2,Nott'ham Forest,53254,Anfield
+4/23/2023,Bournemouth,0 x 4,West Ham,10465,Vitality Stadium
+4/23/2023,Newcastle Utd,6 x 1,Tottenham,52252,St James' Park
+4/25/2023,Aston Villa,1 x 0,Fulham,41046,Villa Park
+4/25/2023,Leeds United,1 x 1,Leicester City,36666,Elland Road
+4/25/2023,Wolves,2 x 0,Crystal Palace,30294,Molineux Stadium
+4/26/2023,Chelsea,0 x 2,Brentford,39929,Stamford Bridge
+4/26/2023,Manchester City,4 x 1,Arsenal,53482,Etihad Stadium
+4/26/2023,Nott'ham Forest,3 x 1,Brighton,28808,The City Ground
+4/26/2023,West Ham,1 x 2,Liverpool,62473,London Stadium
+4/27/2023,Everton,1 x 4,Newcastle Utd,39248,Goodison Park
+4/27/2023,Southampton,0 x 1,Bournemouth,30414,St. Mary's Stadium
+4/27/2023,Tottenham,2 x 2,Manchester Utd,61586,Tottenham Hotspur Stadium
+4/29/2023,Brentford,2 x 1,Nott'ham Forest,17080,Brentford Community Stadium
+4/29/2023,Brighton,6 x 0,Wolves,31584,The American Express Community Stadium
+4/29/2023,Crystal Palace,4 x 3,West Ham,25148,Selhurst Park
+4/30/2023,Bournemouth,4 x 1,Leeds United,10434,Vitality Stadium
+4/30/2023,Fulham,1 x 2,Manchester City,24498,Craven Cottage
+4/30/2023,Liverpool,4 x 3,Tottenham,53275,Anfield
+4/30/2023,Manchester Utd,1 x 0,Aston Villa,73592,Old Trafford
+4/30/2023,Newcastle Utd,3 x 1,Southampton,52234,St James' Park
+5/1/2023,Leicester City,2 x 2,Everton,32173,King Power Stadium
+5/2/2023,Arsenal,3 x 1,Chelsea,60144,Emirates Stadium
+5/3/2023,Liverpool,1 x 0,Fulham,52602,Anfield
+5/3/2023,Manchester City,3 x 0,West Ham,53305,Etihad Stadium
+5/4/2023,Brighton,1 x 0,Manchester Utd,31577,The American Express Community Stadium
+5/6/2023,Bournemouth,1 x 3,Chelsea,10357,Vitality Stadium
+5/6/2023,Liverpool,1 x 0,Brentford,52838,Anfield
+5/6/2023,Manchester City,2 x 1,Leeds United,53406,Etihad Stadium
+5/6/2023,Tottenham,1 x 0,Crystal Palace,61093,Tottenham Hotspur Stadium
+5/6/2023,Wolves,1 x 0,Aston Villa,31641,Molineux Stadium
+5/7/2023,Newcastle Utd,0 x 2,Arsenal,50267,St James' Park
+5/7/2023,West Ham,1 x 0,Manchester Utd,62477,London Stadium
+5/8/2023,Brighton,1 x 5,Everton,31567,The American Express Community Stadium
+5/8/2023,Fulham,5 x 3,Leicester City,24442,Craven Cottage
+5/8/2023,Nott'ham Forest,4 x 3,Southampton,29154,The City Ground
+5/13/2023,Aston Villa,2 x 1,Tottenham,42164,Villa Park
+5/13/2023,Chelsea,2 x 2,Nott'ham Forest,40030,Stamford Bridge
+5/13/2023,Crystal Palace,2 x 0,Bournemouth,25034,Selhurst Park
+5/13/2023,Leeds United,2 x 2,Newcastle Utd,36955,Elland Road
+5/13/2023,Manchester Utd,2 x 0,Wolves,73570,Old Trafford
+5/13/2023,Southampton,0 x 2,Fulham,28978,St. Mary's Stadium
+5/14/2023,Arsenal,0 x 3,Brighton,60139,Emirates Stadium
+5/14/2023,Brentford,2 x 0,West Ham,17075,Brentford Community Stadium
+5/14/2023,Everton,0 x 3,Manchester City,39376,Goodison Park
+5/15/2023,Leicester City,0 x 3,Liverpool,32225,King Power Stadium
+5/18/2023,Newcastle Utd,4 x 1,Brighton,52122,St James' Park
+5/20/2023,Bournemouth,0 x 1,Manchester Utd,10240,Vitality Stadium
+5/20/2023,Fulham,2 x 2,Crystal Palace,24356,Craven Cottage
+5/20/2023,Liverpool,1 x 1,Aston Villa,53306,Anfield
+5/20/2023,Nott'ham Forest,1 x 0,Arsenal,29514,The City Ground
+5/20/2023,Tottenham,1 x 3,Brentford,61514,Tottenham Hotspur Stadium
+5/20/2023,Wolves,1 x 1,Everton,31684,Molineux Stadium
+5/21/2023,Brighton,3 x 1,Southampton,31507,The American Express Community Stadium
+5/21/2023,Manchester City,1 x 0,Chelsea,53490,Etihad Stadium
+5/21/2023,West Ham,3 x 1,Leeds United,62478,London Stadium
+5/22/2023,Newcastle Utd,0 x 0,Leicester City,52152,St James' Park
+5/24/2023,Brighton,1 x 1,Manchester City,31388,The American Express Community Stadium
+5/25/2023,Manchester Utd,4 x 1,Chelsea,73561,Old Trafford
+5/28/2023,Arsenal,5 x 0,Wolves,60095,Emirates Stadium
+5/28/2023,Aston Villa,2 x 1,Brighton,,Villa Park
+5/28/2023,Brentford,1 x 0,Manchester City,17120,Brentford Community Stadium
+5/28/2023,Chelsea,1 x 1,Newcastle Utd,40130,Stamford Bridge
+5/28/2023,Crystal Palace,1 x 1,Nott'ham Forest,25198,Selhurst Park
+5/28/2023,Everton,1 x 0,Bournemouth,39201,Goodison Park
+5/28/2023,Leeds United,1 x 4,Tottenham,36871,Elland Road
+5/28/2023,Leicester City,2 x 1,West Ham,32183,King Power Stadium
+5/28/2023,Manchester Utd,2 x 1,Fulham,73465,Old Trafford
+5/28/2023,Southampton,4 x 4,Liverpool,31129,St. Mary's Stadium
