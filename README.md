@@ -1,2 +1,2 @@
 # SemanticSearch
-Projects involving searching vector databases.
+Projects involving searching local files using vector databases.
