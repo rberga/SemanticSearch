@@ -1,0 +1,965 @@
+﻿world_cup,date,team 1,team 2,score team 1,score team 2,penalties team 1,penalties team 2,Location,phase,attendance,year,host
+1930 FIFA World Cup,7/13/1930,France,Mexico,4,1,,,Montevideo ,Group stage,4444,1930,Uruguay
+1930 FIFA World Cup,7/13/1930,USA,Belgium,3,0,,,Montevideo ,Group stage,18346,1930,Uruguay
+1930 FIFA World Cup,7/14/1930,Romania,Peru,3,1,,,Montevideo ,Group stage,2549,1930,Uruguay
+1930 FIFA World Cup,7/14/1930,Yugoslavia,Brazil,2,1,,,Montevideo ,Group stage,24059,1930,Uruguay
+1930 FIFA World Cup,7/15/1930,Argentina,France,1,0,,,Montevideo ,Group stage,23409,1930,Uruguay
+1930 FIFA World Cup,7/16/1930,Chile,Mexico,3,0,,,Montevideo ,Group stage,9249,1930,Uruguay
+1930 FIFA World Cup,7/17/1930,USA,Paraguay,3,0,,,Montevideo ,Group stage,18306,1930,Uruguay
+1930 FIFA World Cup,7/17/1930,Yugoslavia,Bolivia,4,0,,,Montevideo ,Group stage,18306,1930,Uruguay
+1930 FIFA World Cup,7/18/1930,Uruguay,Peru,1,0,,,Montevideo ,Group stage,57735,1930,Uruguay
+1930 FIFA World Cup,7/19/1930,Argentina,Mexico,6,3,,,Montevideo ,Group stage,42100,1930,Uruguay
+1930 FIFA World Cup,7/19/1930,Chile,France,1,0,,,Montevideo ,Group stage,2000,1930,Uruguay
+1930 FIFA World Cup,7/20/1930,Brazil,Bolivia,4,0,,,Montevideo ,Group stage,25466,1930,Uruguay
+1930 FIFA World Cup,7/20/1930,Paraguay,Belgium,1,0,,,Montevideo ,Group stage,12000,1930,Uruguay
+1930 FIFA World Cup,7/21/1930,Uruguay,Romania,4,0,,,Montevideo ,Group stage,70022,1930,Uruguay
+1930 FIFA World Cup,7/22/1930,Argentina,Chile,3,1,,,Montevideo ,Group stage,41459,1930,Uruguay
+1930 FIFA World Cup,7/26/1930,Argentina,USA,6,1,,,Montevideo ,Semi-finals,72886,1930,Uruguay
+1930 FIFA World Cup,7/27/1930,Uruguay,Yugoslavia,6,1,,,Montevideo ,Semi-finals,79867,1930,Uruguay
+1930 FIFA World Cup,7/30/1930,Uruguay,Argentina,4,2,,,Montevideo ,Final,68346,1930,Uruguay
+1934 FIFA World Cup,5/27/1934,Austria,France,3,2,,,Turin ,Preliminary round,16000,1934,Italy
+1934 FIFA World Cup,5/27/1934,Czechoslovakia,Romania,2,1,,,Trieste ,Preliminary round,9000,1934,Italy
+1934 FIFA World Cup,5/27/1934,Germany,Belgium,5,2,,,Florence ,Preliminary round,8000,1934,Italy
+1934 FIFA World Cup,5/27/1934,Hungary,Egypt,4,2,,,Naples ,Preliminary round,9000,1934,Italy
+1934 FIFA World Cup,5/27/1934,Italy,USA,7,1,,,Rome ,Preliminary round,25000,1934,Italy
+1934 FIFA World Cup,5/27/1934,Spain,Brazil,3,1,,,Genoa ,Preliminary round,21000,1934,Italy
+1934 FIFA World Cup,5/27/1934,Sweden,Argentina,3,2,,,Bologna ,Preliminary round,14000,1934,Italy
+1934 FIFA World Cup,5/27/1934,Switzerland,Netherlands,3,2,,,Milan ,Preliminary round,33000,1934,Italy
+1934 FIFA World Cup,5/31/1934,Austria,Hungary,2,1,,,Bologna ,Quarter-finals,23000,1934,Italy
+1934 FIFA World Cup,5/31/1934,Czechoslovakia,Switzerland,3,2,,,Turin ,Quarter-finals,12000,1934,Italy
+1934 FIFA World Cup,5/31/1934,Germany,Sweden,2,1,,,Milan ,Quarter-finals,3000,1934,Italy
+1934 FIFA World Cup,5/31/1934,Italy,Spain,1,1,,,Florence ,Quarter-finals,35000,1934,Italy
+1934 FIFA World Cup,6/1/1934,Italy,Spain,1,0,,,Florence ,Quarter-finals,43000,1934,Italy
+1934 FIFA World Cup,6/3/1934,Czechoslovakia,Germany,3,1,,,Rome ,Semi-finals,15000,1934,Italy
+1934 FIFA World Cup,6/3/1934,Italy,Austria,1,0,,,Milan ,Semi-finals,35000,1934,Italy
+1934 FIFA World Cup,6/7/1934,Germany,Austria,3,2,,,Naples ,Match for third place,7000,1934,Italy
+1934 FIFA World Cup,6/10/1934,Italy,Czechoslovakia,2,1,,,Rome ,Final,55000,1934,Italy
+1938 FIFA World Cup,6/4/1938,Switzerland,Germany,1,1,,,Paris ,First round,27152,1938,France
+1938 FIFA World Cup,6/5/1938,Brazil,Poland,6,5,,,Strasbourg ,First round,13452,1938,France
+1938 FIFA World Cup,6/5/1938,Cuba,Romania,3,3,,,Toulouse ,First round,7000,1938,France
+1938 FIFA World Cup,6/5/1938,Czechoslovakia,Netherlands,3,0,,,Le Havre ,First round,11000,1938,France
+1938 FIFA World Cup,6/5/1938,France,Belgium,3,1,,,Paris/Colombes ,First round,30454,1938,France
+1938 FIFA World Cup,6/5/1938,Hungary,Dutch East Indies,6,0,,,Reims ,First round,9000,1938,France
+1938 FIFA World Cup,6/5/1938,Italy,Norway,2,1,,,Marseilles ,First round,19000,1938,France
+1938 FIFA World Cup,6/9/1938,Cuba,Romania,2,1,,,Toulouse ,First round,8000,1938,France
+1938 FIFA World Cup,6/9/1938,Switzerland,Germany,4,2,,,Paris ,First round,20025,1938,France
+1938 FIFA World Cup,6/12/1938,Brazil,Czechoslovakia,1,1,,,Bordeaux ,Quarter-finals,22021,1938,France
+1938 FIFA World Cup,6/12/1938,Hungary,Switzerland,2,0,,,Lille ,Quarter-finals,15000,1938,France
+1938 FIFA World Cup,6/12/1938,Italy,France,3,1,,,Paris/Colombes ,Quarter-finals,58455,1938,France
+1938 FIFA World Cup,6/12/1938,Sweden,Cuba,8,0,,,Antibes ,Quarter-finals,7000,1938,France
+1938 FIFA World Cup,6/14/1938,Brazil,Czechoslovakia,2,1,,,Bordeaux ,Quarter-finals,18141,1938,France
+1938 FIFA World Cup,6/16/1938,Hungary,Sweden,5,1,,,Paris ,Semi-finals,20000,1938,France
+1938 FIFA World Cup,6/16/1938,Italy,Brazil,2,1,,,Marseilles ,Semi-finals,33000,1938,France
+1938 FIFA World Cup,6/19/1938,Brazil,Sweden,4,2,,,Bordeaux ,Match for third place,12000,1938,France
+1938 FIFA World Cup,6/19/1938,Italy,Hungary,4,2,,,Paris/Colombes ,Final,45000,1938,France
+1950 FIFA World Cup,6/24/1950,Brazil,Mexico,4,0,,,Rio De Janeiro ,Group stage,81649,1950,Brazil
+1950 FIFA World Cup,6/25/1950,England,Chile,2,0,,,Rio De Janeiro ,Group stage,29703,1950,Brazil
+1950 FIFA World Cup,6/25/1950,Spain,USA,3,1,,,Curitiba ,Group stage,9511,1950,Brazil
+1950 FIFA World Cup,6/25/1950,Sweden,Italy,3,2,,,Sao Paulo ,Group stage,36502,1950,Brazil
+1950 FIFA World Cup,6/25/1950,Yugoslavia,Switzerland,3,0,,,Belo Horizonte ,Group stage,7336,1950,Brazil
+1950 FIFA World Cup,6/28/1950,Brazil,Switzerland,2,2,,,Sao Paulo ,Group stage,42032,1950,Brazil
+1950 FIFA World Cup,6/28/1950,Yugoslavia,Mexico,4,1,,,Porto Alegre ,Group stage,11078,1950,Brazil
+1950 FIFA World Cup,6/29/1950,Spain,Chile,2,0,,,Rio De Janeiro ,Group stage,19790,1950,Brazil
+1950 FIFA World Cup,6/29/1950,Sweden,Paraguay,2,2,,,Curitiba ,Group stage,7903,1950,Brazil
+1950 FIFA World Cup,6/29/1950,USA,England,1,0,,,Belo Horizonte ,Group stage,10151,1950,Brazil
+1950 FIFA World Cup,7/1/1950,Brazil,Yugoslavia,2,0,,,Rio De Janeiro ,Group stage,142429,1950,Brazil
+1950 FIFA World Cup,7/2/1950,Chile,USA,5,2,,,Recife ,Group stage,8501,1950,Brazil
+1950 FIFA World Cup,7/2/1950,Italy,Paraguay,2,0,,,Sao Paulo ,Group stage,25811,1950,Brazil
+1950 FIFA World Cup,7/2/1950,Spain,England,1,0,,,Rio De Janeiro ,Group stage,74462,1950,Brazil
+1950 FIFA World Cup,7/2/1950,Switzerland,Mexico,2,1,,,Porto Alegre ,Group stage,3580,1950,Brazil
+1950 FIFA World Cup,7/2/1950,Uruguay,Bolivia,8,0,,,Belo Horizonte ,Group stage,5284,1950,Brazil
+1950 FIFA World Cup,7/9/1950,Brazil,Sweden,7,1,,,Rio De Janeiro ,Final round,138886,1950,Brazil
+1950 FIFA World Cup,7/9/1950,Uruguay,Spain,2,2,,,Sao Paulo ,Final round,44802,1950,Brazil
+1950 FIFA World Cup,7/13/1950,Brazil,Spain,6,1,,,Rio De Janeiro ,Final round,152772,1950,Brazil
+1950 FIFA World Cup,7/13/1950,Uruguay,Sweden,3,2,,,Sao Paulo ,Final round,7987,1950,Brazil
+1950 FIFA World Cup,7/16/1950,Sweden,Spain,3,1,,,Sao Paulo ,Final round,11227,1950,Brazil
+1950 FIFA World Cup,7/16/1950,Uruguay,Brazil,2,1,,,Rio De Janeiro ,Final,173850,1950,Brazil
+1954 FIFA World Cup,6/16/1954,Austria,Scotland,1,0,,,Zurich ,Group stage,25000,1954,Switzerland
+1954 FIFA World Cup,6/16/1954,Brazil,Mexico,5,0,,,Geneva ,Group stage,13470,1954,Switzerland
+1954 FIFA World Cup,6/16/1954,Uruguay,Czechoslovakia,2,0,,,Berne ,Group stage,20500,1954,Switzerland
+1954 FIFA World Cup,6/16/1954,Yugoslavia,France,1,0,,,Lausanne ,Group stage,16000,1954,Switzerland
+1954 FIFA World Cup,6/17/1954,England,Belgium,4,4,,,Basel ,Group stage,14000,1954,Switzerland
+1954 FIFA World Cup,6/17/1954,West Germany,Turkey,4,1,,,Berne ,Group stage,28000,1954,Switzerland
+1954 FIFA World Cup,6/17/1954,Hungary,South Korea,9,0,,,Zurich ,Group stage,13000,1954,Switzerland
+1954 FIFA World Cup,6/17/1954,Switzerland,Italy,2,1,,,Lausanne ,Group stage,43000,1954,Switzerland
+1954 FIFA World Cup,6/19/1954,Austria,Czechoslovakia,5,0,,,Zurich ,Group stage,26000,1954,Switzerland
+1954 FIFA World Cup,6/19/1954,Brazil,Yugoslavia,1,1,,,Lausanne ,Group stage,24637,1954,Switzerland
+1954 FIFA World Cup,6/19/1954,France,Mexico,3,2,,,Geneva ,Group stage,19000,1954,Switzerland
+1954 FIFA World Cup,6/19/1954,Uruguay,Scotland,7,0,,,Basel ,Group stage,34000,1954,Switzerland
+1954 FIFA World Cup,6/20/1954,England,Switzerland,2,0,,,Berne ,Group stage,43500,1954,Switzerland
+1954 FIFA World Cup,6/20/1954,Hungary,West Germany,8,3,,,Basel ,Group stage,56000,1954,Switzerland
+1954 FIFA World Cup,6/20/1954,Italy,Belgium,4,1,,,Lugano ,Group stage,24000,1954,Switzerland
+1954 FIFA World Cup,6/20/1954,Turkey,South Korea,7,0,,,Geneva ,Group stage,4000,1954,Switzerland
+1954 FIFA World Cup,6/23/1954,West Germany,Turkey,7,2,,,Zurich ,Group stage,17000,1954,Switzerland
+1954 FIFA World Cup,6/23/1954,Switzerland,Italy,4,1,,,Basel ,Group stage,30000,1954,Switzerland
+1954 FIFA World Cup,6/26/1954,Austria,Switzerland,7,5,,,Lausanne ,Quarter-finals,35000,1954,Switzerland
+1954 FIFA World Cup,6/26/1954,Uruguay,England,4,2,,,Basel ,Quarter-finals,28000,1954,Switzerland
+1954 FIFA World Cup,6/27/1954,West Germany,Yugoslavia,2,0,,,Geneva ,Quarter-finals,17000,1954,Switzerland
+1954 FIFA World Cup,6/27/1954,Hungary,Brazil,4,2,,,Berne ,Quarter-finals,40000,1954,Switzerland
+1954 FIFA World Cup,6/30/1954,West Germany,Austria,6,1,,,Basel ,Semi-finals,58000,1954,Switzerland
+1954 FIFA World Cup,6/30/1954,Hungary,Uruguay,4,2,,,Lausanne ,Semi-finals,45000,1954,Switzerland
+1954 FIFA World Cup,7/3/1954,Austria,Uruguay,3,1,,,Zurich ,Match for third place,32000,1954,Switzerland
+1954 FIFA World Cup,7/4/1954,West Germany,Hungary,3,2,,,Berne ,Final,62500,1954,Switzerland
+1958 FIFA World Cup,6/8/1958,Argentina,West Germany,1,3,,,Malmo ,Group stage,31156,1958,Sweden
+1958 FIFA World Cup,6/8/1958,Brazil,Austria,3,0,,,Udevalla ,Group stage,17788,1958,Sweden
+1958 FIFA World Cup,6/8/1958,France,Paraguay,7,3,,,Norrkoping ,Group stage,16518,1958,Sweden
+1958 FIFA World Cup,6/8/1958,Hungary,Wales,1,1,,,Sandviken ,Group stage,15343,1958,Sweden
+1958 FIFA World Cup,6/8/1958,Northern Ireland,Czechoslovakia,1,0,,,Halmstad ,Group stage,10647,1958,Sweden
+1958 FIFA World Cup,6/8/1958,Soviet Union,England,2,2,,,Gothenburg ,Group stage,49348,1958,Sweden
+1958 FIFA World Cup,6/8/1958,Sweden,Mexico,3,0,,,Solna ,Group stage,34107,1958,Sweden
+1958 FIFA World Cup,6/8/1958,Yugoslavia,Scotland,1,1,,,Vasteras ,Group stage,9591,1958,Sweden
+1958 FIFA World Cup,6/11/1958,Argentina,Northern Ireland,3,1,,,Halmstad ,Group stage,14174,1958,Sweden
+1958 FIFA World Cup,6/11/1958,Brazil,England,0,0,,,Gothenburg ,Group stage,40895,1958,Sweden
+1958 FIFA World Cup,6/11/1958,West Germany,Czechoslovakia,2,2,,,Helsingborg ,Group stage,25000,1958,Sweden
+1958 FIFA World Cup,6/11/1958,Mexico,Wales,1,1,,,Solna ,Group stage,15150,1958,Sweden
+1958 FIFA World Cup,6/11/1958,Paraguay,Scotland,3,2,,,Norrkoping ,Group stage,11665,1958,Sweden
+1958 FIFA World Cup,6/11/1958,Soviet Union,Austria,2,0,,,Boras ,Group stage,21239,1958,Sweden
+1958 FIFA World Cup,6/11/1958,Yugoslavia,France,3,2,,,Vasteras ,Group stage,12217,1958,Sweden
+1958 FIFA World Cup,6/12/1958,Sweden,Hungary,2,1,,,Solna ,Group stage,38850,1958,Sweden
+1958 FIFA World Cup,6/15/1958,Brazil,Soviet Union,2,0,,,Gothenburg ,Group stage,50928,1958,Sweden
+1958 FIFA World Cup,6/15/1958,Czechoslovakia,Argentina,6,1,,,Helsingborg ,Group stage,16418,1958,Sweden
+1958 FIFA World Cup,6/15/1958,England,Austria,2,2,,,Boras ,Group stage,15872,1958,Sweden
+1958 FIFA World Cup,6/15/1958,France,Scotland,2,1,,,Orebro ,Group stage,13554,1958,Sweden
+1958 FIFA World Cup,6/15/1958,West Germany,Northern Ireland,2,2,,,Malmo ,Group stage,21990,1958,Sweden
+1958 FIFA World Cup,6/15/1958,Hungary,Mexico,4,0,,,Sandviken ,Group stage,13300,1958,Sweden
+1958 FIFA World Cup,6/15/1958,Paraguay,Yugoslavia,3,3,,,Eskilstuna ,Group stage,13103,1958,Sweden
+1958 FIFA World Cup,6/15/1958,Sweden,Wales,0,0,,,Solna ,Group stage,30287,1958,Sweden
+1958 FIFA World Cup,6/17/1958,Northern Ireland,Czechoslovakia,2,1,,,Malmo ,Group stage,6196,1958,Sweden
+1958 FIFA World Cup,6/17/1958,Soviet Union,England,1,0,,,Gothenburg ,Group stage,23182,1958,Sweden
+1958 FIFA World Cup,6/17/1958,Wales,Hungary,2,1,,,Solna ,Group stage,2823,1958,Sweden
+1958 FIFA World Cup,6/19/1958,Brazil,Wales,1,0,,,Gothenburg ,Quarter-finals,25923,1958,Sweden
+1958 FIFA World Cup,6/19/1958,France,Northern Ireland,4,0,,,Norrkoping ,Quarter-finals,11800,1958,Sweden
+1958 FIFA World Cup,6/19/1958,West Germany,Yugoslavia,1,0,,,Malmo ,Quarter-finals,20055,1958,Sweden
+1958 FIFA World Cup,6/19/1958,Sweden,Soviet Union,2,0,,,Solna ,Quarter-finals,31900,1958,Sweden
+1958 FIFA World Cup,6/24/1958,Brazil,France,5,2,,,Solna ,Semi-finals,27100,1958,Sweden
+1958 FIFA World Cup,6/24/1958,Sweden,West Germany,3,1,,,Gothenburg ,Semi-finals,49471,1958,Sweden
+1958 FIFA World Cup,6/28/1958,France,West Germany,6,3,,,Gothenburg ,Match for third place,32483,1958,Sweden
+1958 FIFA World Cup,6/29/1958,Brazil,Sweden,5,2,,,Solna ,Final,49737,1958,Sweden
+1962 FIFA World Cup,5/30/1962,Argentina,Bulgaria,1,0,,,Rancagua ,Group stage,7134,1962,Chile
+1962 FIFA World Cup,5/30/1962,Brazil,Mexico,2,0,,,Vina Del Mar ,Group stage,10484,1962,Chile
+1962 FIFA World Cup,5/30/1962,Chile,Switzerland,3,1,,,Santiago De Chile ,Group stage,65006,1962,Chile
+1962 FIFA World Cup,5/30/1962,Uruguay,Colombia,2,1,,,Arica ,Group stage,7908,1962,Chile
+1962 FIFA World Cup,5/31/1962,Czechoslovakia,Spain,1,0,,,Vina Del Mar ,Group stage,12700,1962,Chile
+1962 FIFA World Cup,5/31/1962,West Germany,Italy,0,0,,,Santiago De Chile ,Group stage,65440,1962,Chile
+1962 FIFA World Cup,5/31/1962,Hungary,England,2,1,,,Rancagua ,Group stage,7938,1962,Chile
+1962 FIFA World Cup,5/31/1962,Soviet Union,Yugoslavia,2,0,,,Arica ,Group stage,9622,1962,Chile
+1962 FIFA World Cup,6/2/1962,Brazil,Czechoslovakia,0,0,,,Vina Del Mar ,Group stage,14903,1962,Chile
+1962 FIFA World Cup,6/2/1962,Chile,Italy,2,0,,,Santiago De Chile ,Group stage,66057,1962,Chile
+1962 FIFA World Cup,6/2/1962,England,Argentina,3,1,,,Rancagua ,Group stage,9794,1962,Chile
+1962 FIFA World Cup,6/2/1962,Yugoslavia,Uruguay,3,1,,,Arica ,Group stage,8829,1962,Chile
+1962 FIFA World Cup,6/3/1962,West Germany,Switzerland,2,1,,,Santiago De Chile ,Group stage,64922,1962,Chile
+1962 FIFA World Cup,6/3/1962,Hungary,Bulgaria,6,1,,,Rancagua ,Group stage,7442,1962,Chile
+1962 FIFA World Cup,6/3/1962,Soviet Union,Colombia,4,4,,,Arica ,Group stage,8040,1962,Chile
+1962 FIFA World Cup,6/3/1962,Spain,Mexico,1,0,,,Vina Del Mar ,Group stage,11875,1962,Chile
+1962 FIFA World Cup,6/6/1962,Brazil,Spain,2,1,,,Vina Del Mar ,Group stage,18715,1962,Chile
+1962 FIFA World Cup,6/6/1962,West Germany,Chile,2,0,,,Santiago De Chile ,Group stage,67224,1962,Chile
+1962 FIFA World Cup,6/6/1962,Hungary,Argentina,0,0,,,Rancagua ,Group stage,7945,1962,Chile
+1962 FIFA World Cup,6/6/1962,Soviet Union,Uruguay,2,1,,,Arica ,Group stage,9973,1962,Chile
+1962 FIFA World Cup,6/7/1962,England,Bulgaria,0,0,,,Rancagua ,Group stage,5700,1962,Chile
+1962 FIFA World Cup,6/7/1962,Italy,Switzerland,3,0,,,Santiago De Chile ,Group stage,59828,1962,Chile
+1962 FIFA World Cup,6/7/1962,Mexico,Czechoslovakia,3,1,,,Vina Del Mar ,Group stage,10648,1962,Chile
+1962 FIFA World Cup,6/7/1962,Yugoslavia,Colombia,5,0,,,Arica ,Group stage,7167,1962,Chile
+1962 FIFA World Cup,6/10/1962,Brazil,England,3,1,,,Vina Del Mar ,Quarter-finals,17736,1962,Chile
+1962 FIFA World Cup,6/10/1962,Chile,Soviet Union,2,1,,,Arica ,Quarter-finals,17268,1962,Chile
+1962 FIFA World Cup,6/10/1962,Czechoslovakia,Hungary,1,0,,,Rancagua ,Quarter-finals,11690,1962,Chile
+1962 FIFA World Cup,6/10/1962,Yugoslavia,West Germany,1,0,,,Santiago De Chile ,Quarter-finals,63324,1962,Chile
+1962 FIFA World Cup,6/13/1962,Brazil,Chile,4,2,,,Santiago De Chile ,Semi-finals,76594,1962,Chile
+1962 FIFA World Cup,6/13/1962,Czechoslovakia,Yugoslavia,3,1,,,Vina Del Mar ,Semi-finals,5890,1962,Chile
+1962 FIFA World Cup,6/16/1962,Chile,Yugoslavia,1,0,,,Santiago De Chile ,Match for third place,66697,1962,Chile
+1962 FIFA World Cup,6/17/1962,Brazil,Czechoslovakia,3,1,,,Santiago De Chile ,Final,68679,1962,Chile
+1966 FIFA World Cup,7/11/1966,England,Uruguay,0,0,,,London ,Group stage,87148,1966,England
+1966 FIFA World Cup,7/12/1966,Brazil,Bulgaria,2,0,,,Liverpool ,Group stage,47308,1966,England
+1966 FIFA World Cup,7/12/1966,West Germany,Switzerland,5,0,,,Sheffield ,Group stage,36127,1966,England
+1966 FIFA World Cup,7/12/1966,Soviet Union,North Korea,3,0,,,Middlesbrough ,Group stage,23006,1966,England
+1966 FIFA World Cup,7/13/1966,Argentina,Spain,2,1,,,Birmingham ,Group stage,42738,1966,England
+1966 FIFA World Cup,7/13/1966,France,Mexico,1,1,,,London ,Group stage,69237,1966,England
+1966 FIFA World Cup,7/13/1966,Italy,Chile,2,0,,,Sunderland ,Group stage,27199,1966,England
+1966 FIFA World Cup,7/13/1966,Portugal,Hungary,3,1,,,Manchester ,Group stage,29886,1966,England
+1966 FIFA World Cup,7/15/1966,Hungary,Brazil,3,1,,,Liverpool ,Group stage,51387,1966,England
+1966 FIFA World Cup,7/15/1966,North Korea,Chile,1,1,,,Middlesbrough ,Group stage,13792,1966,England
+1966 FIFA World Cup,7/15/1966,Spain,Switzerland,2,1,,,Sheffield ,Group stage,32028,1966,England
+1966 FIFA World Cup,7/15/1966,Uruguay,France,2,1,,,London ,Group stage,45662,1966,England
+1966 FIFA World Cup,7/16/1966,England,Mexico,2,0,,,London ,Group stage,92570,1966,England
+1966 FIFA World Cup,7/16/1966,West Germany,Argentina,0,0,,,Birmingham ,Group stage,46587,1966,England
+1966 FIFA World Cup,7/16/1966,Portugal,Bulgaria,3,0,,,Manchester ,Group stage,25438,1966,England
+1966 FIFA World Cup,7/16/1966,Soviet Union,Italy,1,0,,,Sunderland ,Group stage,27793,1966,England
+1966 FIFA World Cup,7/19/1966,Argentina,Switzerland,2,0,,,Sheffield ,Group stage,32127,1966,England
+1966 FIFA World Cup,7/19/1966,North Korea,Italy,1,0,,,Middlesbrough ,Group stage,17829,1966,England
+1966 FIFA World Cup,7/19/1966,Portugal,Brazil,3,1,,,Liverpool ,Group stage,58479,1966,England
+1966 FIFA World Cup,7/19/1966,Uruguay,Mexico,0,0,,,London ,Group stage,61112,1966,England
+1966 FIFA World Cup,7/20/1966,England,France,2,0,,,London ,Group stage,98270,1966,England
+1966 FIFA World Cup,7/20/1966,West Germany,Spain,2,1,,,Birmingham ,Group stage,42187,1966,England
+1966 FIFA World Cup,7/20/1966,Hungary,Bulgaria,3,1,,,Manchester ,Group stage,24129,1966,England
+1966 FIFA World Cup,7/20/1966,Soviet Union,Chile,2,1,,,Sunderland ,Group stage,16027,1966,England
+1966 FIFA World Cup,7/23/1966,England,Argentina,1,0,,,London ,Quarter-finals,90584,1966,England
+1966 FIFA World Cup,7/23/1966,West Germany,Uruguay,4,0,,,Sheffield ,Quarter-finals,40007,1966,England
+1966 FIFA World Cup,7/23/1966,Portugal,North Korea,5,3,,,Liverpool ,Quarter-finals,40248,1966,England
+1966 FIFA World Cup,7/23/1966,Soviet Union,Hungary,2,1,,,Sunderland ,Quarter-finals,26844,1966,England
+1966 FIFA World Cup,7/25/1966,West Germany,Soviet Union,2,1,,,Liverpool ,Semi-finals,38273,1966,England
+1966 FIFA World Cup,7/26/1966,England,Portugal,2,1,,,London ,Semi-finals,94493,1966,England
+1966 FIFA World Cup,7/28/1966,Portugal,Soviet Union,2,1,,,London ,Match for third place,87696,1966,England
+1966 FIFA World Cup,7/30/1966,England,West Germany,4,2,,,London ,Final,96924,1966,England
+1970 FIFA World Cup,5/31/1970,Mexico,Soviet Union,0,0,,,Mexico City ,Group stage,107160,1970,Mexico
+1970 FIFA World Cup,6/2/1970,England,Romania,1,0,,,Guadalajara ,Group stage,50560,1970,Mexico
+1970 FIFA World Cup,6/2/1970,Peru,Bulgaria,3,2,,,Leon ,Group stage,13765,1970,Mexico
+1970 FIFA World Cup,6/2/1970,Uruguay,Israel,2,0,,,Puebla ,Group stage,20654,1970,Mexico
+1970 FIFA World Cup,6/3/1970,Belgium,El Salvador,3,0,,,Mexico City ,Group stage,92205,1970,Mexico
+1970 FIFA World Cup,6/3/1970,Brazil,Czechoslovakia,4,1,,,Guadalajara ,Group stage,52897,1970,Mexico
+1970 FIFA World Cup,6/3/1970,West Germany,Morocco,2,1,,,Leon ,Group stage,12942,1970,Mexico
+1970 FIFA World Cup,6/3/1970,Italy,Sweden,1,0,,,Toluca ,Group stage,13433,1970,Mexico
+1970 FIFA World Cup,6/6/1970,Peru,Morocco,3,0,,,Leon ,Group stage,13537,1970,Mexico
+1970 FIFA World Cup,6/6/1970,Romania,Czechoslovakia,2,1,,,Guadalajara ,Group stage,56818,1970,Mexico
+1970 FIFA World Cup,6/6/1970,Soviet Union,Belgium,4,1,,,Mexico City ,Group stage,95261,1970,Mexico
+1970 FIFA World Cup,6/6/1970,Uruguay,Italy,0,0,,,Puebla ,Group stage,29968,1970,Mexico
+1970 FIFA World Cup,6/7/1970,Brazil,England,1,0,,,Guadalajara ,Group stage,66843,1970,Mexico
+1970 FIFA World Cup,6/7/1970,West Germany,Bulgaria,5,2,,,Leon ,Group stage,12710,1970,Mexico
+1970 FIFA World Cup,6/7/1970,Mexico,El Salvador,4,0,,,Mexico City ,Group stage,103058,1970,Mexico
+1970 FIFA World Cup,6/7/1970,Sweden,Israel,1,1,,,Toluca ,Group stage,9624,1970,Mexico
+1970 FIFA World Cup,6/10/1970,Brazil,Romania,3,2,,,Guadalajara ,Group stage,50804,1970,Mexico
+1970 FIFA World Cup,6/10/1970,West Germany,Peru,3,1,,,Leon ,Group stage,17875,1970,Mexico
+1970 FIFA World Cup,6/10/1970,Soviet Union,El Salvador,2,0,,,Mexico City ,Group stage,89979,1970,Mexico
+1970 FIFA World Cup,6/10/1970,Sweden,Uruguay,1,0,,,Puebla ,Group stage,18163,1970,Mexico
+1970 FIFA World Cup,6/11/1970,Bulgaria,Morocco,1,1,,,Leon ,Group stage,12299,1970,Mexico
+1970 FIFA World Cup,6/11/1970,England,Czechoslovakia,1,0,,,Guadalajara ,Group stage,49292,1970,Mexico
+1970 FIFA World Cup,6/11/1970,Italy,Israel,0,0,,,Toluca ,Group stage,9890,1970,Mexico
+1970 FIFA World Cup,6/11/1970,Mexico,Belgium,1,0,,,Mexico City ,Group stage,108192,1970,Mexico
+1970 FIFA World Cup,6/14/1970,Brazil,Peru,4,2,,,Guadalajara ,Quarter-finals,54233,1970,Mexico
+1970 FIFA World Cup,6/14/1970,West Germany,England,3,2,,,Leon ,Quarter-finals,23357,1970,Mexico
+1970 FIFA World Cup,6/14/1970,Italy,Mexico,4,1,,,Toluca ,Quarter-finals,26851,1970,Mexico
+1970 FIFA World Cup,6/14/1970,Uruguay,Soviet Union,1,0,,,Mexico City ,Quarter-finals,26085,1970,Mexico
+1970 FIFA World Cup,6/17/1970,Brazil,Uruguay,3,1,,,Guadalajara ,Semi-finals,51261,1970,Mexico
+1970 FIFA World Cup,6/17/1970,Italy,West Germany,4,3,,,Mexico City ,Semi-finals,102444,1970,Mexico
+1970 FIFA World Cup,6/20/1970,West Germany,Uruguay,1,0,,,Mexico City ,Match for third place,104403,1970,Mexico
+1970 FIFA World Cup,6/21/1970,Brazil,Italy,4,1,,,Mexico City ,Final,107412,1970,Mexico
+1974 FIFA World Cup,6/13/1974,Brazil,Yugoslavia,0,0,,,Frankfurt/Main ,Group stage,62000,1974,Germany
+1974 FIFA World Cup,6/14/1974,East Germany,Australia,2,0,,,Hamburg ,Group stage,17000,1974,Germany
+1974 FIFA World Cup,6/14/1974,West Germany,Chile,1,0,,,Berlin West ,Group stage,81100,1974,Germany
+1974 FIFA World Cup,6/14/1974,Zaire,Scotland,0,2,,,Dortmund ,Group stage,27000,1974,Germany
+1974 FIFA World Cup,6/15/1974,Italy,Haiti,3,1,,,Munich ,Group stage,53000,1974,Germany
+1974 FIFA World Cup,6/15/1974,Poland,Argentina,3,2,,,Stuttgart ,Group stage,32700,1974,Germany
+1974 FIFA World Cup,6/15/1974,Sweden,Bulgaria,0,0,,,Dusseldorf,Group stage,23800,1974,Germany
+1974 FIFA World Cup,6/15/1974,Uruguay,Netherlands,0,2,,,Hanover ,Group stage,55100,1974,Germany
+1974 FIFA World Cup,6/18/1974,Australia,West Germany,0,3,,,Hamburg ,Group stage,53300,1974,Germany
+1974 FIFA World Cup,6/18/1974,Chile,East Germany,1,1,,,Berlin West ,Group stage,28300,1974,Germany
+1974 FIFA World Cup,6/18/1974,Scotland,Brazil,0,0,,,Frankfurt/Main ,Group stage,62000,1974,Germany
+1974 FIFA World Cup,6/18/1974,Yugoslavia,Zaire,9,0,,,Gelsenkirchen ,Group stage,31700,1974,Germany
+1974 FIFA World Cup,6/19/1974,Argentina,Italy,1,1,,,Stuttgart ,Group stage,70100,1974,Germany
+1974 FIFA World Cup,6/19/1974,Bulgaria,Uruguay,1,1,,,Hanover ,Group stage,13400,1974,Germany
+1974 FIFA World Cup,6/19/1974,Haiti,Poland,0,7,,,Munich ,Group stage,25300,1974,Germany
+1974 FIFA World Cup,6/19/1974,Netherlands,Sweden,0,0,,,Dortmund ,Group stage,53700,1974,Germany
+1974 FIFA World Cup,6/22/1974,Australia,Chile,0,0,,,Berlin West ,Group stage,17400,1974,Germany
+1974 FIFA World Cup,6/22/1974,East Germany,West Germany,1,0,,,Hamburg ,Group stage,60200,1974,Germany
+1974 FIFA World Cup,6/22/1974,Scotland,Yugoslavia,1,1,,,Frankfurt/Main ,Group stage,56000,1974,Germany
+1974 FIFA World Cup,6/22/1974,Zaire,Brazil,0,3,,,Gelsenkirchen ,Group stage,36200,1974,Germany
+1974 FIFA World Cup,6/23/1974,Argentina,Haiti,4,1,,,Munich ,Group stage,25900,1974,Germany
+1974 FIFA World Cup,6/23/1974,Bulgaria,Netherlands,1,4,,,Dortmund ,Group stage,53300,1974,Germany
+1974 FIFA World Cup,6/23/1974,Poland,Italy,2,1,,,Stuttgart ,Group stage,70100,1974,Germany
+1974 FIFA World Cup,6/23/1974,Sweden,Uruguay,3,0,,,Dusseldorf,Group stage,28300,1974,Germany
+1974 FIFA World Cup,6/26/1974,Brazil,East Germany,1,0,,,Hanover ,Second round,59863,1974,Germany
+1974 FIFA World Cup,6/26/1974,Netherlands,Argentina,4,0,,,Gelsenkirchen ,Second round,56548,1974,Germany
+1974 FIFA World Cup,6/26/1974,Sweden,Poland,0,1,,,Stuttgart ,Second round,44955,1974,Germany
+1974 FIFA World Cup,6/26/1974,Yugoslavia,West Germany,0,2,,,Dusseldorf,Second round,67385,1974,Germany
+1974 FIFA World Cup,6/30/1974,Argentina,Brazil,1,2,,,Hanover ,Second round,39400,1974,Germany
+1974 FIFA World Cup,6/30/1974,East Germany,Netherlands,0,2,,,Gelsenkirchen ,Second round,68348,1974,Germany
+1974 FIFA World Cup,6/30/1974,West Germany,Sweden,4,2,,,Dusseldorf,Second round,67800,1974,Germany
+1974 FIFA World Cup,6/30/1974,Poland,Yugoslavia,2,1,,,Frankfurt/Main ,Second round,58000,1974,Germany
+1974 FIFA World Cup,7/3/1974,Argentina,East Germany,1,1,,,Gelsenkirchen ,Second round,54254,1974,Germany
+1974 FIFA World Cup,7/3/1974,Netherlands,Brazil,2,0,,,Dortmund ,Second round,53700,1974,Germany
+1974 FIFA World Cup,7/3/1974,Poland,West Germany,0,1,,,Frankfurt/Main ,Second round,62000,1974,Germany
+1974 FIFA World Cup,7/3/1974,Sweden,Yugoslavia,2,1,,,Dusseldorf,Second round,41300,1974,Germany
+1974 FIFA World Cup,7/6/1974,Brazil,Poland,0,1,,,Munich ,Match for third place,77100,1974,Germany
+1974 FIFA World Cup,7/7/1974,Netherlands,West Germany,1,2,,,Munich ,Final,78200,1974,Germany
+1978 FIFA World Cup,6/1/1978,West Germany,Poland,0,0,,,Buenos Aires ,Group stage,67579,1978,Argentina
+1978 FIFA World Cup,6/2/1978,Argentina,Hungary,2,1,,,Buenos Aires ,Group stage,71615,1978,Argentina
+1978 FIFA World Cup,6/2/1978,Italy,France,2,1,,,Mar Del Plata ,Group stage,42373,1978,Argentina
+1978 FIFA World Cup,6/2/1978,Tunisia,Mexico,3,1,,,Rosario ,Group stage,17396,1978,Argentina
+1978 FIFA World Cup,6/3/1978,Austria,Spain,2,1,,,Buenos Aires ,Group stage,40841,1978,Argentina
+1978 FIFA World Cup,6/3/1978,Netherlands,Iran,3,0,,,Mendoza ,Group stage,33431,1978,Argentina
+1978 FIFA World Cup,6/3/1978,Peru,Scotland,3,1,,,Cordoba ,Group stage,37927,1978,Argentina
+1978 FIFA World Cup,6/3/1978,Sweden,Brazil,1,1,,,Mar Del Plata ,Group stage,32569,1978,Argentina
+1978 FIFA World Cup,6/6/1978,Argentina,France,2,1,,,Buenos Aires ,Group stage,71666,1978,Argentina
+1978 FIFA World Cup,6/6/1978,West Germany,Mexico,6,0,,,Cordoba ,Group stage,35258,1978,Argentina
+1978 FIFA World Cup,6/6/1978,Italy,Hungary,3,1,,,Mar Del Plata ,Group stage,26533,1978,Argentina
+1978 FIFA World Cup,6/6/1978,Poland,Tunisia,1,0,,,Rosario ,Group stage,9624,1978,Argentina
+1978 FIFA World Cup,6/7/1978,Austria,Sweden,1,0,,,Buenos Aires ,Group stage,41424,1978,Argentina
+1978 FIFA World Cup,6/7/1978,Brazil,Spain,0,0,,,Mar Del Plata ,Group stage,34771,1978,Argentina
+1978 FIFA World Cup,6/7/1978,Netherlands,Peru,0,0,,,Mendoza ,Group stage,28125,1978,Argentina
+1978 FIFA World Cup,6/7/1978,Scotland,Iran,1,1,,,Cordoba ,Group stage,7938,1978,Argentina
+1978 FIFA World Cup,6/10/1978,France,Hungary,3,1,,,Mar Del Plata ,Group stage,23127,1978,Argentina
+1978 FIFA World Cup,6/10/1978,West Germany,Tunisia,0,0,,,Cordoba ,Group stage,30667,1978,Argentina
+1978 FIFA World Cup,6/10/1978,Italy,Argentina,1,0,,,Buenos Aires ,Group stage,71712,1978,Argentina
+1978 FIFA World Cup,6/10/1978,Poland,Mexico,3,1,,,Rosario ,Group stage,22651,1978,Argentina
+1978 FIFA World Cup,6/11/1978,Brazil,Austria,1,0,,,Mar Del Plata ,Group stage,35221,1978,Argentina
+1978 FIFA World Cup,6/11/1978,Peru,Iran,4,1,,,Cordoba ,Group stage,21262,1978,Argentina
+1978 FIFA World Cup,6/11/1978,Scotland,Netherlands,3,2,,,Mendoza ,Group stage,35130,1978,Argentina
+1978 FIFA World Cup,6/11/1978,Spain,Sweden,1,0,,,Buenos Aires ,Group stage,42132,1978,Argentina
+1978 FIFA World Cup,6/14/1978,Argentina,Poland,2,0,,,Rosario ,Second round,37091,1978,Argentina
+1978 FIFA World Cup,6/14/1978,Brazil,Peru,3,0,,,Mendoza ,Second round,31278,1978,Argentina
+1978 FIFA World Cup,6/14/1978,West Germany,Italy,0,0,,,Buenos Aires ,Second round,67547,1978,Argentina
+1978 FIFA World Cup,6/14/1978,Netherlands,Austria,5,1,,,Cordoba ,Second round,25050,1978,Argentina
+1978 FIFA World Cup,6/18/1978,Argentina,Brazil,0,0,,,Rosario ,Second round,37326,1978,Argentina
+1978 FIFA World Cup,6/18/1978,West Germany,Netherlands,2,2,,,Cordoba ,Second round,40750,1978,Argentina
+1978 FIFA World Cup,6/18/1978,Italy,Austria,1,0,,,Buenos Aires ,Second round,66695,1978,Argentina
+1978 FIFA World Cup,6/18/1978,Poland,Peru,1,0,,,Mendoza ,Second round,35288,1978,Argentina
+1978 FIFA World Cup,6/21/1978,Argentina,Peru,6,0,,,Rosario ,Second round,37315,1978,Argentina
+1978 FIFA World Cup,6/21/1978,Austria,West Germany,3,2,,,Cordoba ,Second round,38318,1978,Argentina
+1978 FIFA World Cup,6/21/1978,Brazil,Poland,3,1,,,Mendoza ,Second round,39586,1978,Argentina
+1978 FIFA World Cup,6/21/1978,Netherlands,Italy,2,1,,,Buenos Aires ,Second round,67433,1978,Argentina
+1978 FIFA World Cup,6/24/1978,Brazil,Italy,2,1,,,Buenos Aires ,Match for third place,69659,1978,Argentina
+1978 FIFA World Cup,6/25/1978,Argentina,Netherlands,3,1,,,Buenos Aires ,Final,71483,1978,Argentina
+1982 FIFA World Cup,6/13/1982,Argentina,Belgium,0,1,,,Barcelona ,Group stage,95000,1982,Spain
+1982 FIFA World Cup,6/14/1982,Brazil,Soviet Union,2,1,,,Seville ,Group stage,68000,1982,Spain
+1982 FIFA World Cup,6/14/1982,Italy,Poland,0,0,,,Vigo ,Group stage,33000,1982,Spain
+1982 FIFA World Cup,6/15/1982,Hungary,El Salvador,10,1,,,Elche ,Group stage,23000,1982,Spain
+1982 FIFA World Cup,6/15/1982,Peru,Cameroon,0,0,,,La Coruna ,Group stage,11000,1982,Spain
+1982 FIFA World Cup,6/15/1982,Scotland,New Zealand,5,2,,,Malaga ,Group stage,36000,1982,Spain
+1982 FIFA World Cup,6/16/1982,England,France,3,1,,,Bilbao ,Group stage,44172,1982,Spain
+1982 FIFA World Cup,6/16/1982,West Germany,Algeria,1,2,,,Gijon ,Group stage,42000,1982,Spain
+1982 FIFA World Cup,6/16/1982,Spain,Honduras,1,1,,,Valencia ,Group stage,49562,1982,Spain
+1982 FIFA World Cup,6/17/1982,Chile,Austria,0,1,,,Oviedo ,Group stage,22500,1982,Spain
+1982 FIFA World Cup,6/17/1982,Czechoslovakia,Kuwait,1,1,,,Valladolid ,Group stage,25000,1982,Spain
+1982 FIFA World Cup,6/17/1982,Yugoslavia,Northern Ireland,0,0,,,Zaragoza ,Group stage,25000,1982,Spain
+1982 FIFA World Cup,6/18/1982,Argentina,Hungary,4,1,,,Alicante ,Group stage,32093,1982,Spain
+1982 FIFA World Cup,6/18/1982,Brazil,Scotland,4,1,,,Seville ,Group stage,47379,1982,Spain
+1982 FIFA World Cup,6/18/1982,Italy,Peru,1,1,,,Vigo ,Group stage,25000,1982,Spain
+1982 FIFA World Cup,6/19/1982,Belgium,El Salvador,1,0,,,Elche ,Group stage,15000,1982,Spain
+1982 FIFA World Cup,6/19/1982,Poland,Cameroon,0,0,,,La Coruna ,Group stage,19000,1982,Spain
+1982 FIFA World Cup,6/19/1982,Soviet Union,New Zealand,3,0,,,Malaga ,Group stage,19000,1982,Spain
+1982 FIFA World Cup,6/20/1982,England,Czechoslovakia,2,0,,,Bilbao ,Group stage,41123,1982,Spain
+1982 FIFA World Cup,6/20/1982,West Germany,Chile,4,1,,,Gijon ,Group stage,42000,1982,Spain
+1982 FIFA World Cup,6/20/1982,Spain,Yugoslavia,2,1,,,Valencia ,Group stage,48000,1982,Spain
+1982 FIFA World Cup,6/21/1982,Algeria,Austria,0,2,,,Oviedo ,Group stage,22000,1982,Spain
+1982 FIFA World Cup,6/21/1982,France,Kuwait,4,1,,,Valladolid ,Group stage,30043,1982,Spain
+1982 FIFA World Cup,6/21/1982,Honduras,Northern Ireland,1,1,,,Zaragoza ,Group stage,15000,1982,Spain
+1982 FIFA World Cup,6/22/1982,Belgium,Hungary,1,1,,,Elche ,Group stage,37000,1982,Spain
+1982 FIFA World Cup,6/22/1982,Poland,Peru,5,1,,,La Coruna ,Group stage,25000,1982,Spain
+1982 FIFA World Cup,6/22/1982,Soviet Union,Scotland,2,2,,,Malaga ,Group stage,45000,1982,Spain
+1982 FIFA World Cup,6/23/1982,Argentina,El Salvador,2,0,,,Alicante ,Group stage,32500,1982,Spain
+1982 FIFA World Cup,6/23/1982,Brazil,New Zealand,4,0,,,Seville ,Group stage,43000,1982,Spain
+1982 FIFA World Cup,6/23/1982,Italy,Cameroon,1,1,,,Vigo ,Group stage,20000,1982,Spain
+1982 FIFA World Cup,6/24/1982,Algeria,Chile,3,2,,,Oviedo ,Group stage,16000,1982,Spain
+1982 FIFA World Cup,6/24/1982,France,Czechoslovakia,1,1,,,Valladolid ,Group stage,28000,1982,Spain
+1982 FIFA World Cup,6/24/1982,Honduras,Yugoslavia,0,1,,,Zaragoza ,Group stage,25000,1982,Spain
+1982 FIFA World Cup,6/25/1982,England,Kuwait,1,0,,,Bilbao ,Group stage,39700,1982,Spain
+1982 FIFA World Cup,6/25/1982,West Germany,Austria,1,0,,,Gijon ,Group stage,41000,1982,Spain
+1982 FIFA World Cup,6/25/1982,Northern Ireland,Spain,1,0,,,Valencia ,Group stage,49562,1982,Spain
+1982 FIFA World Cup,6/28/1982,Austria,France,0,1,,,Madrid ,Second round,37000,1982,Spain
+1982 FIFA World Cup,6/28/1982,Poland,Belgium,3,0,,,Barcelona ,Second round,65000,1982,Spain
+1982 FIFA World Cup,6/29/1982,West Germany,England,0,0,,,Madrid ,Second round,75000,1982,Spain
+1982 FIFA World Cup,6/29/1982,Italy,Argentina,2,1,,,Barcelona ,Second round,43000,1982,Spain
+1982 FIFA World Cup,7/1/1982,Austria,Northern Ireland,2,2,,,Madrid ,Second round,20000,1982,Spain
+1982 FIFA World Cup,7/1/1982,Belgium,Soviet Union,0,1,,,Barcelona ,Second round,45000,1982,Spain
+1982 FIFA World Cup,7/2/1982,Argentina,Brazil,1,3,,,Barcelona ,Second round,44000,1982,Spain
+1982 FIFA World Cup,7/2/1982,West Germany,Spain,2,1,,,Madrid ,Second round,90089,1982,Spain
+1982 FIFA World Cup,7/4/1982,France,Northern Ireland,4,1,,,Madrid ,Second round,37000,1982,Spain
+1982 FIFA World Cup,7/4/1982,Poland,Soviet Union,0,0,,,Barcelona ,Second round,65000,1982,Spain
+1982 FIFA World Cup,7/5/1982,Italy,Brazil,3,2,,,Barcelona ,Second round,44000,1982,Spain
+1982 FIFA World Cup,7/5/1982,Spain,England,0,0,,,Madrid ,Second round,75000,1982,Spain
+1982 FIFA World Cup,7/8/1982,West Germany,France,3,3,5,4,Seville ,Semi-finals,70000,1982,Spain
+1982 FIFA World Cup,7/8/1982,Poland,Italy,0,2,,,Barcelona ,Semi-finals,50000,1982,Spain
+1982 FIFA World Cup,7/10/1982,Poland,France,3,2,,,Alicante ,Match for third place,28000,1982,Spain
+1982 FIFA World Cup,7/11/1982,Italy,West Germany,3,1,,,Madrid ,Final,90000,1982,Spain
+1986 FIFA World Cup,5/31/1986,Bulgaria,Italy,1,1,,,Mexico City ,Group stage,96000,1986,Mexico
+1986 FIFA World Cup,6/1/1986,Canada,France,0,1,,,Leon ,Group stage,65500,1986,Mexico
+1986 FIFA World Cup,6/1/1986,Spain,Brazil,0,1,,,Guadalajara ,Group stage,35748,1986,Mexico
+1986 FIFA World Cup,6/2/1986,Argentina,South Korea,3,1,,,Mexico City ,Group stage,60000,1986,Mexico
+1986 FIFA World Cup,6/2/1986,Morocco,Poland,0,0,,,Monterrey ,Group stage,19900,1986,Mexico
+1986 FIFA World Cup,6/2/1986,Soviet Union,Hungary,6,0,,,Irapuato ,Group stage,16500,1986,Mexico
+1986 FIFA World Cup,6/3/1986,Algeria,Northern Ireland,1,1,,,Guadalajara ,Group stage,22000,1986,Mexico
+1986 FIFA World Cup,6/3/1986,Belgium,Mexico,1,2,,,Mexico City ,Group stage,110000,1986,Mexico
+1986 FIFA World Cup,6/3/1986,Portugal,England,1,0,,,Monterrey ,Group stage,23000,1986,Mexico
+1986 FIFA World Cup,6/4/1986,Paraguay,Iraq,1,0,,,Toluca ,Group stage,24000,1986,Mexico
+1986 FIFA World Cup,6/4/1986,Scotland,Denmark,0,1,,,Nezahualcoyotl ,Group stage,18000,1986,Mexico
+1986 FIFA World Cup,6/4/1986,Uruguay,West Germany,1,1,,,Queretaro ,Group stage,30500,1986,Mexico
+1986 FIFA World Cup,6/5/1986,France,Soviet Union,1,1,,,Leon ,Group stage,36540,1986,Mexico
+1986 FIFA World Cup,6/5/1986,Italy,Argentina,1,1,,,Puebla ,Group stage,32000,1986,Mexico
+1986 FIFA World Cup,6/5/1986,South Korea,Bulgaria,1,1,,,Mexico City ,Group stage,45000,1986,Mexico
+1986 FIFA World Cup,6/6/1986,Brazil,Algeria,1,0,,,Guadalajara ,Group stage,48000,1986,Mexico
+1986 FIFA World Cup,6/6/1986,England,Morocco,0,0,,,Monterrey ,Group stage,20200,1986,Mexico
+1986 FIFA World Cup,6/6/1986,Hungary,Canada,2,0,,,Irapuato ,Group stage,13800,1986,Mexico
+1986 FIFA World Cup,6/7/1986,Mexico,Paraguay,1,1,,,Mexico City ,Group stage,114600,1986,Mexico
+1986 FIFA World Cup,6/7/1986,Northern Ireland,Spain,1,2,,,Guadalajara ,Group stage,28000,1986,Mexico
+1986 FIFA World Cup,6/7/1986,Poland,Portugal,1,0,,,Monterrey ,Group stage,19915,1986,Mexico
+1986 FIFA World Cup,6/8/1986,Denmark,Uruguay,6,1,,,Nezahualcoyotl ,Group stage,26500,1986,Mexico
+1986 FIFA World Cup,6/8/1986,West Germany,Scotland,2,1,,,Queretaro ,Group stage,30000,1986,Mexico
+1986 FIFA World Cup,6/8/1986,Iraq,Belgium,1,2,,,Toluca ,Group stage,20000,1986,Mexico
+1986 FIFA World Cup,6/9/1986,Hungary,France,0,3,,,Leon ,Group stage,31420,1986,Mexico
+1986 FIFA World Cup,6/9/1986,Soviet Union,Canada,2,0,,,Irapuato ,Group stage,14200,1986,Mexico
+1986 FIFA World Cup,6/10/1986,Argentina,Bulgaria,2,0,,,Mexico City ,Group stage,65000,1986,Mexico
+1986 FIFA World Cup,6/10/1986,South Korea,Italy,2,3,,,Puebla ,Group stage,20000,1986,Mexico
+1986 FIFA World Cup,6/11/1986,England,Poland,3,0,,,Monterrey ,Group stage,22700,1986,Mexico
+1986 FIFA World Cup,6/11/1986,Iraq,Mexico,0,1,,,Mexico City ,Group stage,103763,1986,Mexico
+1986 FIFA World Cup,6/11/1986,Paraguay,Belgium,2,2,,,Toluca ,Group stage,16000,1986,Mexico
+1986 FIFA World Cup,6/11/1986,Portugal,Morocco,1,3,,,Guadalajara ,Group stage,28000,1986,Mexico
+1986 FIFA World Cup,6/12/1986,Algeria,Spain,0,3,,,Monterrey ,Group stage,23980,1986,Mexico
+1986 FIFA World Cup,6/12/1986,Northern Ireland,Brazil,0,3,,,Guadalajara ,Group stage,51000,1986,Mexico
+1986 FIFA World Cup,6/13/1986,Denmark,West Germany,2,0,,,Queretaro ,Group stage,36000,1986,Mexico
+1986 FIFA World Cup,6/13/1986,Scotland,Uruguay,0,0,,,Nezahualcoyotl ,Group stage,20000,1986,Mexico
+1986 FIFA World Cup,6/15/1986,Mexico,Bulgaria,2,0,,,Mexico City ,Round of 16,114580,1986,Mexico
+1986 FIFA World Cup,6/15/1986,Soviet Union,Belgium,3,4,,,Leon ,Round of 16,32277,1986,Mexico
+1986 FIFA World Cup,6/16/1986,Argentina,Uruguay,1,0,,,Puebla ,Round of 16,26000,1986,Mexico
+1986 FIFA World Cup,6/16/1986,Brazil,Poland,4,0,,,Guadalajara ,Round of 16,45000,1986,Mexico
+1986 FIFA World Cup,6/17/1986,Italy,France,0,2,,,Mexico City ,Round of 16,70000,1986,Mexico
+1986 FIFA World Cup,6/17/1986,Morocco,West Germany,0,1,,,Monterrey ,Round of 16,19800,1986,Mexico
+1986 FIFA World Cup,6/18/1986,Denmark,Spain,1,5,,,Queretaro ,Round of 16,38500,1986,Mexico
+1986 FIFA World Cup,6/18/1986,England,Paraguay,3,0,,,Mexico City ,Round of 16,98728,1986,Mexico
+1986 FIFA World Cup,6/21/1986,Brazil,France,1,1,3,4,Guadalajara ,Quarter-finals,65000,1986,Mexico
+1986 FIFA World Cup,6/21/1986,West Germany,Mexico,0,0,,,Monterrey ,Quarter-finals,41700,1986,Mexico
+1986 FIFA World Cup,6/22/1986,Argentina,England,2,1,,,Mexico City ,Quarter-finals,114580,1986,Mexico
+1986 FIFA World Cup,6/22/1986,Spain,Belgium,1,1,,,Puebla ,Quarter-finals,45000,1986,Mexico
+1986 FIFA World Cup,6/25/1986,Argentina,Belgium,2,0,,,Mexico City ,Semi-finals,114500,1986,Mexico
+1986 FIFA World Cup,6/25/1986,France,West Germany,0,2,,,Guadalajara ,Semi-finals,45000,1986,Mexico
+1986 FIFA World Cup,6/28/1986,France,Belgium,4,2,,,Puebla ,Match for third place,21000,1986,Mexico
+1986 FIFA World Cup,6/29/1986,Argentina,West Germany,3,2,,,Mexico City ,Final,114600,1986,Mexico
+1990 FIFA World Cup,6/8/1990,Argentina,Cameroon,0,1,,,Milan ,Group stage,73780,1990,Italy
+1990 FIFA World Cup,6/9/1990,Italy,Austria,1,0,,,Rome ,Group stage,73303,1990,Italy
+1990 FIFA World Cup,6/9/1990,Soviet Union,Romania,0,2,,,Bari ,Group stage,42907,1990,Italy
+1990 FIFA World Cup,6/9/1990,United Arab Emirates,Colombia,0,2,,,Bologna ,Group stage,30791,1990,Italy
+1990 FIFA World Cup,6/10/1990,Brazil,Sweden,2,1,,,Turin ,Group stage,62628,1990,Italy
+1990 FIFA World Cup,6/10/1990,West Germany,Yugoslavia,4,1,,,Milan ,Group stage,74765,1990,Italy
+1990 FIFA World Cup,6/10/1990,USA,Czechoslovakia,1,5,,,Florence ,Group stage,33266,1990,Italy
+1990 FIFA World Cup,6/11/1990,Costa Rica,Scotland,1,0,,,Genoa ,Group stage,30867,1990,Italy
+1990 FIFA World Cup,6/11/1990,England,Republic of Ireland,1,1,,,Cagliari ,Group stage,35238,1990,Italy
+1990 FIFA World Cup,6/12/1990,Belgium,South Korea,2,0,,,Verona ,Group stage,32790,1990,Italy
+1990 FIFA World Cup,6/12/1990,Netherlands,Egypt,1,1,,,Palermo ,Group stage,33288,1990,Italy
+1990 FIFA World Cup,6/13/1990,Argentina,Soviet Union,2,0,,,Naples ,Group stage,55759,1990,Italy
+1990 FIFA World Cup,6/13/1990,Uruguay,Spain,0,0,,,Udine ,Group stage,35713,1990,Italy
+1990 FIFA World Cup,6/14/1990,Cameroon,Romania,2,1,,,Bari ,Group stage,38687,1990,Italy
+1990 FIFA World Cup,6/14/1990,Italy,USA,1,0,,,Rome ,Group stage,73423,1990,Italy
+1990 FIFA World Cup,6/14/1990,Yugoslavia,Colombia,1,0,,,Bologna ,Group stage,32257,1990,Italy
+1990 FIFA World Cup,6/15/1990,Austria,Czechoslovakia,0,1,,,Florence ,Group stage,38962,1990,Italy
+1990 FIFA World Cup,6/15/1990,West Germany,United Arab Emirates,5,1,,,Milan ,Group stage,71169,1990,Italy
+1990 FIFA World Cup,6/16/1990,Brazil,Costa Rica,1,0,,,Turin ,Group stage,58007,1990,Italy
+1990 FIFA World Cup,6/16/1990,England,Netherlands,0,0,,,Cagliari ,Group stage,35267,1990,Italy
+1990 FIFA World Cup,6/16/1990,Sweden,Scotland,1,2,,,Genoa ,Group stage,31823,1990,Italy
+1990 FIFA World Cup,6/17/1990,Belgium,Uruguay,3,1,,,Verona ,Group stage,33759,1990,Italy
+1990 FIFA World Cup,6/17/1990,South Korea,Spain,1,3,,,Udine ,Group stage,32733,1990,Italy
+1990 FIFA World Cup,6/17/1990,Republic of Ireland,Egypt,0,0,,,Palermo ,Group stage,33288,1990,Italy
+1990 FIFA World Cup,6/18/1990,Argentina,Romania,1,1,,,Naples ,Group stage,52733,1990,Italy
+1990 FIFA World Cup,6/18/1990,Cameroon,Soviet Union,0,4,,,Bari ,Group stage,37307,1990,Italy
+1990 FIFA World Cup,6/19/1990,Austria,USA,2,1,,,Florence ,Group stage,34857,1990,Italy
+1990 FIFA World Cup,6/19/1990,West Germany,Colombia,1,1,,,Milan ,Group stage,72510,1990,Italy
+1990 FIFA World Cup,6/19/1990,Italy,Czechoslovakia,2,0,,,Rome ,Group stage,73303,1990,Italy
+1990 FIFA World Cup,6/19/1990,Yugoslavia,United Arab Emirates,4,1,,,Bologna ,Group stage,27833,1990,Italy
+1990 FIFA World Cup,6/20/1990,Brazil,Scotland,1,0,,,Turin ,Group stage,62502,1990,Italy
+1990 FIFA World Cup,6/20/1990,Sweden,Costa Rica,1,2,,,Genoa ,Group stage,30223,1990,Italy
+1990 FIFA World Cup,6/21/1990,Belgium,Spain,1,2,,,Verona ,Group stage,35950,1990,Italy
+1990 FIFA World Cup,6/21/1990,England,Egypt,1,0,,,Cagliari ,Group stage,34959,1990,Italy
+1990 FIFA World Cup,6/21/1990,South Korea,Uruguay,0,1,,,Udine ,Group stage,29039,1990,Italy
+1990 FIFA World Cup,6/21/1990,Republic of Ireland,Netherlands,1,1,,,Palermo ,Group stage,33288,1990,Italy
+1990 FIFA World Cup,6/23/1990,Cameroon,Colombia,2,1,,,Naples ,Round of 16,50026,1990,Italy
+1990 FIFA World Cup,6/23/1990,Czechoslovakia,Costa Rica,4,1,,,Bari ,Round of 16,47673,1990,Italy
+1990 FIFA World Cup,6/24/1990,Brazil,Argentina,0,1,,,Turin ,Round of 16,61381,1990,Italy
+1990 FIFA World Cup,6/24/1990,West Germany,Netherlands,2,1,,,Milan ,Round of 16,74559,1990,Italy
+1990 FIFA World Cup,6/25/1990,Italy,Uruguay,2,0,,,Rome ,Round of 16,73303,1990,Italy
+1990 FIFA World Cup,6/25/1990,Republic of Ireland,Romania,0,0,,,Genoa ,Round of 16,31818,1990,Italy
+1990 FIFA World Cup,6/26/1990,England,Belgium,1,0,,,Bologna ,Round of 16,34520,1990,Italy
+1990 FIFA World Cup,6/26/1990,Spain,Yugoslavia,1,2,,,Verona ,Round of 16,35500,1990,Italy
+1990 FIFA World Cup,6/30/1990,Italy,Republic of Ireland,1,0,,,Rome ,Quarter-finals,73303,1990,Italy
+1990 FIFA World Cup,6/30/1990,Yugoslavia,Argentina,0,0,,,Florence ,Quarter-finals,38971,1990,Italy
+1990 FIFA World Cup,7/1/1990,England,Cameroon,3,2,,,Naples ,Quarter-finals,55205,1990,Italy
+1990 FIFA World Cup,7/1/1990,West Germany,Czechoslovakia,1,0,,,Milan ,Quarter-finals,73347,1990,Italy
+1990 FIFA World Cup,7/3/1990,Italy,Argentina,1,1,,,Naples ,Semi-finals,59978,1990,Italy
+1990 FIFA World Cup,7/4/1990,West Germany,England,1,1,4,3,Turin ,Semi-finals,62628,1990,Italy
+1990 FIFA World Cup,7/7/1990,Italy,England,2,1,,,Bari ,Match for third place,51426,1990,Italy
+1990 FIFA World Cup,7/8/1990,West Germany,Argentina,1,0,,,Rome ,Final,73603,1990,Italy
+1994 FIFA World Cup,6/17/1994,Germany,Bolivia,1,0,,,Chicago ,Group stage,63117,1994,USA
+1994 FIFA World Cup,6/17/1994,Spain,South Korea,2,2,,,Dallas ,Group stage,56247,1994,USA
+1994 FIFA World Cup,6/18/1994,Colombia,Romania,1,3,,,Los Angeles ,Group stage,91856,1994,USA
+1994 FIFA World Cup,6/18/1994,Italy,Republic of Ireland,0,1,,,New York/New Jersey ,Group stage,75338,1994,USA
+1994 FIFA World Cup,6/18/1994,USA,Switzerland,1,1,,,Detroit ,Group stage,73425,1994,USA
+1994 FIFA World Cup,6/19/1994,Belgium,Morocco,1,0,,,Orlando ,Group stage,61219,1994,USA
+1994 FIFA World Cup,6/19/1994,Cameroon,Sweden,2,2,,,Los Angeles ,Group stage,93194,1994,USA
+1994 FIFA World Cup,6/19/1994,Norway,Mexico,1,0,,,Washington Dc ,Group stage,52395,1994,USA
+1994 FIFA World Cup,6/20/1994,Brazil,Russia,2,0,,,San Francisco ,Group stage,81061,1994,USA
+1994 FIFA World Cup,6/20/1994,Netherlands,Saudi Arabia,2,1,,,Washington Dc ,Group stage,50535,1994,USA
+1994 FIFA World Cup,6/21/1994,Argentina,Greece,4,0,,,Boston ,Group stage,54456,1994,USA
+1994 FIFA World Cup,6/21/1994,Germany,Spain,1,1,,,Chicago ,Group stage,63113,1994,USA
+1994 FIFA World Cup,6/21/1994,Nigeria,Bulgaria,3,0,,,Dallas ,Group stage,44132,1994,USA
+1994 FIFA World Cup,6/22/1994,Romania,Switzerland,1,4,,,Detroit ,Group stage,61428,1994,USA
+1994 FIFA World Cup,6/22/1994,USA,Colombia,2,1,,,Los Angeles ,Group stage,93869,1994,USA
+1994 FIFA World Cup,6/23/1994,Italy,Norway,1,0,,,New York/New Jersey ,Group stage,74624,1994,USA
+1994 FIFA World Cup,6/23/1994,South Korea,Bolivia,0,0,,,Boston ,Group stage,54453,1994,USA
+1994 FIFA World Cup,6/24/1994,Brazil,Cameroon,3,0,,,San Francisco ,Group stage,83401,1994,USA
+1994 FIFA World Cup,6/24/1994,Mexico,Republic of Ireland,2,1,,,Orlando ,Group stage,60790,1994,USA
+1994 FIFA World Cup,6/24/1994,Sweden,Russia,3,1,,,Detroit ,Group stage,71528,1994,USA
+1994 FIFA World Cup,6/25/1994,Argentina,Nigeria,2,1,,,Boston ,Group stage,54453,1994,USA
+1994 FIFA World Cup,6/25/1994,Belgium,Netherlands,1,0,,,Orlando ,Group stage,62387,1994,USA
+1994 FIFA World Cup,6/25/1994,Saudi Arabia,Morocco,2,1,,,New York/New Jersey ,Group stage,76322,1994,USA
+1994 FIFA World Cup,6/26/1994,Bulgaria,Greece,4,0,,,Chicago ,Group stage,63160,1994,USA
+1994 FIFA World Cup,6/26/1994,Switzerland,Colombia,0,2,,,San Francisco ,Group stage,83401,1994,USA
+1994 FIFA World Cup,6/26/1994,USA,Romania,0,1,,,Los Angeles ,Group stage,93869,1994,USA
+1994 FIFA World Cup,6/27/1994,Bolivia,Spain,1,3,,,Chicago ,Group stage,63089,1994,USA
+1994 FIFA World Cup,6/27/1994,Germany,South Korea,3,2,,,Dallas ,Group stage,63998,1994,USA
+1994 FIFA World Cup,6/28/1994,Brazil,Sweden,1,1,,,Detroit ,Group stage,77217,1994,USA
+1994 FIFA World Cup,6/28/1994,Italy,Mexico,1,1,,,Washington Dc ,Group stage,52535,1994,USA
+1994 FIFA World Cup,6/28/1994,Republic of Ireland,Norway,0,0,,,New York/New Jersey ,Group stage,72404,1994,USA
+1994 FIFA World Cup,6/28/1994,Russia,Cameroon,6,1,,,San Francisco ,Group stage,74914,1994,USA
+1994 FIFA World Cup,6/29/1994,Belgium,Saudi Arabia,0,1,,,Washington Dc ,Group stage,52959,1994,USA
+1994 FIFA World Cup,6/29/1994,Morocco,Netherlands,1,2,,,Orlando ,Group stage,60578,1994,USA
+1994 FIFA World Cup,6/30/1994,Argentina,Bulgaria,0,2,,,Dallas ,Group stage,63998,1994,USA
+1994 FIFA World Cup,6/30/1994,Greece,Nigeria,0,2,,,Boston ,Group stage,53001,1994,USA
+1994 FIFA World Cup,7/2/1994,Germany,Belgium,3,2,,,Chicago ,Round of 16,60246,1994,USA
+1994 FIFA World Cup,7/2/1994,Spain,Switzerland,3,0,,,Washington Dc ,Round of 16,53121,1994,USA
+1994 FIFA World Cup,7/3/1994,Romania,Argentina,3,2,,,Los Angeles ,Round of 16,90469,1994,USA
+1994 FIFA World Cup,7/3/1994,Saudi Arabia,Sweden,1,3,,,Dallas ,Round of 16,60277,1994,USA
+1994 FIFA World Cup,7/4/1994,Brazil,USA,1,0,,,San Francisco ,Round of 16,84147,1994,USA
+1994 FIFA World Cup,7/4/1994,Netherlands,Republic of Ireland,2,0,,,Orlando ,Round of 16,61355,1994,USA
+1994 FIFA World Cup,7/5/1994,Mexico,Bulgaria,1,1,,,New York/New Jersey ,Round of 16,71030,1994,USA
+1994 FIFA World Cup,7/5/1994,Nigeria,Italy,1,2,,,Boston ,Round of 16,54367,1994,USA
+1994 FIFA World Cup,7/9/1994,Italy,Spain,2,1,,,Boston ,Quarter-finals,53400,1994,USA
+1994 FIFA World Cup,7/9/1994,Netherlands,Brazil,2,3,,,Dallas ,Quarter-finals,63500,1994,USA
+1994 FIFA World Cup,7/10/1994,Bulgaria,Germany,2,1,,,New York/New Jersey ,Quarter-finals,72000,1994,USA
+1994 FIFA World Cup,7/10/1994,Romania,Sweden,2,2,,,San Francisco ,Quarter-finals,83500,1994,USA
+1994 FIFA World Cup,7/13/1994,Bulgaria,Italy,1,2,,,New York/New Jersey ,Semi-finals,74110,1994,USA
+1994 FIFA World Cup,7/13/1994,Sweden,Brazil,0,1,,,Los Angeles ,Semi-finals,91856,1994,USA
+1994 FIFA World Cup,7/16/1994,Sweden,Bulgaria,4,0,,,Los Angeles ,Match for third place,91500,1994,USA
+1994 FIFA World Cup,7/17/1994,Brazil,Italy,0,0,3,2,Los Angeles ,Final,94194,1994,USA
+1998 FIFA World Cup,6/10/1998,Brazil,Scotland,2,1,,,Saint-Denis ,Group stage,80000,1998,France
+1998 FIFA World Cup,6/10/1998,Morocco,Norway,2,2,,,Montpellier ,Group stage,29800,1998,France
+1998 FIFA World Cup,6/11/1998,Cameroon,Austria,1,1,,,Toulouse ,Group stage,33500,1998,France
+1998 FIFA World Cup,6/11/1998,Italy,Chile,2,2,,,Bordeaux ,Group stage,31800,1998,France
+1998 FIFA World Cup,6/12/1998,France,South Africa,3,0,,,Marseilles ,Group stage,55000,1998,France
+1998 FIFA World Cup,6/12/1998,Paraguay,Bulgaria,0,0,,,Montpellier ,Group stage,29800,1998,France
+1998 FIFA World Cup,6/12/1998,Saudi Arabia,Denmark,0,1,,,Lens ,Group stage,38100,1998,France
+1998 FIFA World Cup,6/13/1998,South Korea,Mexico,1,3,,,Lyon ,Group stage,39100,1998,France
+1998 FIFA World Cup,6/13/1998,Netherlands,Belgium,0,0,,,Saint-Denis ,Group stage,77000,1998,France
+1998 FIFA World Cup,6/13/1998,Spain,Nigeria,2,3,,,Nantes ,Group stage,35500,1998,France
+1998 FIFA World Cup,6/14/1998,Argentina,Japan,1,0,,,Toulouse ,Group stage,33500,1998,France
+1998 FIFA World Cup,6/14/1998,Jamaica,Croatia,1,3,,,Lens ,Group stage,38100,1998,France
+1998 FIFA World Cup,6/14/1998,Yugoslavia,Iran,1,0,,,St. Etienne ,Group stage,30600,1998,France
+1998 FIFA World Cup,6/15/1998,England,Tunisia,2,0,,,Marseilles ,Group stage,55000,1998,France
+1998 FIFA World Cup,6/15/1998,Germany,USA,2,0,,,Paris ,Group stage,45500,1998,France
+1998 FIFA World Cup,6/15/1998,Romania,Colombia,1,0,,,Lyon ,Group stage,39100,1998,France
+1998 FIFA World Cup,6/16/1998,Brazil,Morocco,3,0,,,Nantes ,Group stage,35500,1998,France
+1998 FIFA World Cup,6/16/1998,Scotland,Norway,1,1,,,Bordeaux ,Group stage,31800,1998,France
+1998 FIFA World Cup,6/17/1998,Chile,Austria,1,1,,,St. Etienne ,Group stage,30600,1998,France
+1998 FIFA World Cup,6/17/1998,Italy,Cameroon,3,0,,,Montpellier ,Group stage,29800,1998,France
+1998 FIFA World Cup,6/18/1998,France,Saudi Arabia,4,0,,,Saint-Denis ,Group stage,80000,1998,France
+1998 FIFA World Cup,6/18/1998,South Africa,Denmark,1,1,,,Toulouse ,Group stage,33500,1998,France
+1998 FIFA World Cup,6/19/1998,Nigeria,Bulgaria,1,0,,,Paris ,Group stage,45500,1998,France
+1998 FIFA World Cup,6/19/1998,Spain,Paraguay,0,0,,,St. Etienne ,Group stage,30600,1998,France
+1998 FIFA World Cup,6/20/1998,Belgium,Mexico,2,2,,,Bordeaux ,Group stage,31800,1998,France
+1998 FIFA World Cup,6/20/1998,Japan,Croatia,0,1,,,Nantes ,Group stage,35500,1998,France
+1998 FIFA World Cup,6/20/1998,Netherlands,South Korea,5,0,,,Marseilles ,Group stage,55000,1998,France
+1998 FIFA World Cup,6/21/1998,Argentina,Jamaica,5,0,,,Paris ,Group stage,45500,1998,France
+1998 FIFA World Cup,6/21/1998,Germany,Yugoslavia,2,2,,,Lens ,Group stage,38100,1998,France
+1998 FIFA World Cup,6/21/1998,USA,Iran,1,2,,,Lyon ,Group stage,39100,1998,France
+1998 FIFA World Cup,6/22/1998,Colombia,Tunisia,1,0,,,Montpellier ,Group stage,29800,1998,France
+1998 FIFA World Cup,6/22/1998,Romania,England,2,1,,,Toulouse ,Group stage,33500,1998,France
+1998 FIFA World Cup,6/23/1998,Brazil,Norway,1,2,,,Marseilles ,Group stage,55000,1998,France
+1998 FIFA World Cup,6/23/1998,Chile,Cameroon,1,1,,,Nantes ,Group stage,35500,1998,France
+1998 FIFA World Cup,6/23/1998,Italy,Austria,2,1,,,Saint-Denis ,Group stage,80000,1998,France
+1998 FIFA World Cup,6/23/1998,Scotland,Morocco,0,3,,,St. Etienne ,Group stage,30600,1998,France
+1998 FIFA World Cup,6/24/1998,France,Denmark,2,1,,,Lyon ,Group stage,39100,1998,France
+1998 FIFA World Cup,6/24/1998,Nigeria,Paraguay,1,3,,,Toulouse ,Group stage,33500,1998,France
+1998 FIFA World Cup,6/24/1998,South Africa,Saudi Arabia,2,2,,,Bordeaux ,Group stage,31800,1998,France
+1998 FIFA World Cup,6/24/1998,Spain,Bulgaria,6,1,,,Lens ,Group stage,38100,1998,France
+1998 FIFA World Cup,6/25/1998,Belgium,South Korea,1,1,,,Paris ,Group stage,45500,1998,France
+1998 FIFA World Cup,6/25/1998,Germany,Iran,2,0,,,Montpellier ,Group stage,29800,1998,France
+1998 FIFA World Cup,6/25/1998,Netherlands,Mexico,2,2,,,St. Etienne ,Group stage,30600,1998,France
+1998 FIFA World Cup,6/25/1998,USA,Yugoslavia,0,1,,,Nantes ,Group stage,35500,1998,France
+1998 FIFA World Cup,6/26/1998,Argentina,Croatia,1,0,,,Bordeaux ,Group stage,31800,1998,France
+1998 FIFA World Cup,6/26/1998,Colombia,England,0,2,,,Lens ,Group stage,38100,1998,France
+1998 FIFA World Cup,6/26/1998,Japan,Jamaica,1,2,,,Lyon ,Group stage,39100,1998,France
+1998 FIFA World Cup,6/26/1998,Romania,Tunisia,1,1,,,Saint-Denis ,Group stage,77000,1998,France
+1998 FIFA World Cup,6/27/1998,Brazil,Chile,4,1,,,Paris ,Round of 16,45500,1998,France
+1998 FIFA World Cup,6/27/1998,Italy,Norway,1,0,,,Marseilles ,Round of 16,55000,1998,France
+1998 FIFA World Cup,6/28/1998,France,Paraguay,1,0,,,Lens ,Round of 16,31800,1998,France
+1998 FIFA World Cup,6/28/1998,Nigeria,Denmark,1,4,,,Saint-Denis ,Round of 16,77000,1998,France
+1998 FIFA World Cup,6/29/1998,Germany,Mexico,2,1,,,Montpellier ,Round of 16,29800,1998,France
+1998 FIFA World Cup,6/29/1998,Netherlands,Yugoslavia,2,1,,,Toulouse ,Round of 16,33500,1998,France
+1998 FIFA World Cup,6/30/1998,Argentina,England,2,2,,,St. Etienne ,Round of 16,30600,1998,France
+1998 FIFA World Cup,6/30/1998,Romania,Croatia,0,1,,,Bordeaux ,Round of 16,31800,1998,France
+1998 FIFA World Cup,7/3/1998,Brazil,Denmark,3,2,,,Nantes ,Quarter-finals,35500,1998,France
+1998 FIFA World Cup,7/3/1998,Italy,France,0,0,,,Saint-Denis ,Quarter-finals,77000,1998,France
+1998 FIFA World Cup,7/4/1998,Germany,Croatia,0,3,,,Lyon ,Quarter-finals,39100,1998,France
+1998 FIFA World Cup,7/4/1998,Netherlands,Argentina,2,1,,,Marseilles ,Quarter-finals,55000,1998,France
+1998 FIFA World Cup,7/7/1998,Brazil,Netherlands,1,1,4,2,Marseilles ,Semi-finals,54000,1998,France
+1998 FIFA World Cup,7/8/1998,France,Croatia,2,1,,,Saint-Denis ,Semi-finals,76000,1998,France
+1998 FIFA World Cup,7/11/1998,Netherlands,Croatia,1,2,,,Paris ,Match for third place,45500,1998,France
+1998 FIFA World Cup,7/12/1998,Brazil,France,0,3,,,Saint-Denis ,Final,80000,1998,France
+2002 FIFA World Cup,5/31/2002,France,Senegal,0,1,,,Seoul ,Group stage,62561,2002,Korea/Japan
+2002 FIFA World Cup,6/1/2002,Germany,Saudi Arabia,8,0,,,Sapporo ,Group stage,32218,2002,Korea/Japan
+2002 FIFA World Cup,6/1/2002,Republic of Ireland,Cameroon,1,1,,,Niigata ,Group stage,33679,2002,Korea/Japan
+2002 FIFA World Cup,6/1/2002,Uruguay,Denmark,1,2,,,Ulsan ,Group stage,30157,2002,Korea/Japan
+2002 FIFA World Cup,6/2/2002,Argentina,Nigeria,1,0,,,Ibaraki ,Group stage,34050,2002,Korea/Japan
+2002 FIFA World Cup,6/2/2002,England,Sweden,1,1,,,Saitama ,Group stage,52721,2002,Korea/Japan
+2002 FIFA World Cup,6/2/2002,Paraguay,South Africa,2,2,,,Busan ,Group stage,25186,2002,Korea/Japan
+2002 FIFA World Cup,6/2/2002,Spain,Slovenia,3,1,,,Gwangju ,Group stage,28598,2002,Korea/Japan
+2002 FIFA World Cup,6/3/2002,Brazil,Turkey,2,1,,,Ulsan ,Group stage,33842,2002,Korea/Japan
+2002 FIFA World Cup,6/3/2002,Croatia,Mexico,0,1,,,Niigata ,Group stage,32239,2002,Korea/Japan
+2002 FIFA World Cup,6/3/2002,Italy,Ecuador,2,0,,,Sapporo ,Group stage,31081,2002,Korea/Japan
+2002 FIFA World Cup,6/4/2002,China PR,Costa Rica,0,2,,,Gwangju ,Group stage,27217,2002,Korea/Japan
+2002 FIFA World Cup,6/4/2002,Japan,Belgium,2,2,,,Saitama ,Group stage,55256,2002,Korea/Japan
+2002 FIFA World Cup,6/4/2002,South Korea,Poland,2,0,,,Busan ,Group stage,48760,2002,Korea/Japan
+2002 FIFA World Cup,6/5/2002,Germany,Republic of Ireland,1,1,,,Ibaraki ,Group stage,35854,2002,Korea/Japan
+2002 FIFA World Cup,6/5/2002,Russia,Tunisia,2,0,,,Kobe ,Group stage,30957,2002,Korea/Japan
+2002 FIFA World Cup,6/5/2002,USA,Portugal,3,2,,,Suwon ,Group stage,37306,2002,Korea/Japan
+2002 FIFA World Cup,6/6/2002,Cameroon,Saudi Arabia,1,0,,,Saitama ,Group stage,52328,2002,Korea/Japan
+2002 FIFA World Cup,6/6/2002,Denmark,Senegal,1,1,,,Daegu ,Group stage,43500,2002,Korea/Japan
+2002 FIFA World Cup,6/6/2002,France,Uruguay,0,0,,,Busan ,Group stage,38289,2002,Korea/Japan
+2002 FIFA World Cup,6/7/2002,Argentina,England,0,1,,,Sapporo ,Group stage,35927,2002,Korea/Japan
+2002 FIFA World Cup,6/7/2002,Spain,Paraguay,3,1,,,Jeonju ,Group stage,24000,2002,Korea/Japan
+2002 FIFA World Cup,6/7/2002,Sweden,Nigeria,2,1,,,Kobe ,Group stage,36194,2002,Korea/Japan
+2002 FIFA World Cup,6/8/2002,Brazil,China PR,4,0,,,Jeju ,Group stage,36750,2002,Korea/Japan
+2002 FIFA World Cup,6/8/2002,Italy,Croatia,1,2,,,Ibaraki ,Group stage,36472,2002,Korea/Japan
+2002 FIFA World Cup,6/8/2002,South Africa,Slovenia,1,0,,,Daegu ,Group stage,47226,2002,Korea/Japan
+2002 FIFA World Cup,6/9/2002,Costa Rica,Turkey,1,1,,,Incheon ,Group stage,42299,2002,Korea/Japan
+2002 FIFA World Cup,6/9/2002,Japan,Russia,1,0,,,Yokohama ,Group stage,66108,2002,Korea/Japan
+2002 FIFA World Cup,6/9/2002,Mexico,Ecuador,2,1,,,Miyagi ,Group stage,45610,2002,Korea/Japan
+2002 FIFA World Cup,6/10/2002,South Korea,USA,1,1,,,Daegu ,Group stage,60778,2002,Korea/Japan
+2002 FIFA World Cup,6/10/2002,Portugal,Poland,4,0,,,Jeonju ,Group stage,31000,2002,Korea/Japan
+2002 FIFA World Cup,6/10/2002,Tunisia,Belgium,1,1,,,Oita ,Group stage,39700,2002,Korea/Japan
+2002 FIFA World Cup,6/11/2002,Cameroon,Germany,0,2,,,Shizuoka ,Group stage,47085,2002,Korea/Japan
+2002 FIFA World Cup,6/11/2002,Denmark,France,2,0,,,Incheon ,Group stage,48100,2002,Korea/Japan
+2002 FIFA World Cup,6/11/2002,Saudi Arabia,Republic of Ireland,0,3,,,Yokohama ,Group stage,65320,2002,Korea/Japan
+2002 FIFA World Cup,6/11/2002,Senegal,Uruguay,3,3,,,Suwon ,Group stage,33681,2002,Korea/Japan
+2002 FIFA World Cup,6/12/2002,Nigeria,England,0,0,,,Osaka ,Group stage,44864,2002,Korea/Japan
+2002 FIFA World Cup,6/12/2002,Slovenia,Paraguay,1,3,,,Jeju ,Group stage,30176,2002,Korea/Japan
+2002 FIFA World Cup,6/12/2002,South Africa,Spain,2,3,,,Daejeon ,Group stage,31024,2002,Korea/Japan
+2002 FIFA World Cup,6/12/2002,Sweden,Argentina,1,1,,,Miyagi ,Group stage,45777,2002,Korea/Japan
+2002 FIFA World Cup,6/13/2002,Costa Rica,Brazil,2,5,,,Suwon ,Group stage,38524,2002,Korea/Japan
+2002 FIFA World Cup,6/13/2002,Ecuador,Croatia,1,0,,,Yokohama ,Group stage,65862,2002,Korea/Japan
+2002 FIFA World Cup,6/13/2002,Mexico,Italy,1,1,,,Oita ,Group stage,39291,2002,Korea/Japan
+2002 FIFA World Cup,6/13/2002,Turkey,China PR,3,0,,,Seoul ,Group stage,43605,2002,Korea/Japan
+2002 FIFA World Cup,6/14/2002,Belgium,Russia,3,2,,,Shizuoka ,Group stage,46640,2002,Korea/Japan
+2002 FIFA World Cup,6/14/2002,Poland,USA,3,1,,,Daejeon ,Group stage,26482,2002,Korea/Japan
+2002 FIFA World Cup,6/14/2002,Portugal,South Korea,0,1,,,Incheon ,Group stage,50239,2002,Korea/Japan
+2002 FIFA World Cup,6/14/2002,Tunisia,Japan,0,2,,,Osaka ,Group stage,45213,2002,Korea/Japan
+2002 FIFA World Cup,6/15/2002,Denmark,England,0,3,,,Niigata ,Round of 16,40582,2002,Korea/Japan
+2002 FIFA World Cup,6/15/2002,Germany,Paraguay,1,0,,,Jeju ,Round of 16,25176,2002,Korea/Japan
+2002 FIFA World Cup,6/16/2002,Spain,Republic of Ireland,1,1,,,Suwon ,Round of 16,38926,2002,Korea/Japan
+2002 FIFA World Cup,6/16/2002,Sweden,Senegal,1,2,,,Oita ,Round of 16,39747,2002,Korea/Japan
+2002 FIFA World Cup,6/17/2002,Brazil,Belgium,2,0,,,Kobe ,Round of 16,40440,2002,Korea/Japan
+2002 FIFA World Cup,6/17/2002,Mexico,USA,0,2,,,Jeonju ,Round of 16,36380,2002,Korea/Japan
+2002 FIFA World Cup,6/18/2002,Japan,Turkey,0,1,,,Miyagi ,Round of 16,45666,2002,Korea/Japan
+2002 FIFA World Cup,6/18/2002,South Korea,Italy,2,1,,,Daejeon ,Round of 16,38588,2002,Korea/Japan
+2002 FIFA World Cup,6/21/2002,England,Brazil,1,2,,,Shizuoka ,Quarter-finals,47436,2002,Korea/Japan
+2002 FIFA World Cup,6/21/2002,Germany,USA,1,0,,,Ulsan ,Quarter-finals,37337,2002,Korea/Japan
+2002 FIFA World Cup,6/22/2002,Senegal,Turkey,0,1,,,Osaka ,Quarter-finals,44233,2002,Korea/Japan
+2002 FIFA World Cup,6/22/2002,Spain,South Korea,0,0,,,Gwangju ,Quarter-finals,42114,2002,Korea/Japan
+2002 FIFA World Cup,6/25/2002,Germany,South Korea,1,0,,,Seoul ,Semi-finals,65256,2002,Korea/Japan
+2002 FIFA World Cup,6/26/2002,Brazil,Turkey,1,0,,,Saitama ,Semi-finals,61058,2002,Korea/Japan
+2002 FIFA World Cup,6/29/2002,South Korea,Turkey,2,3,,,Daegu ,Match for third place,63483,2002,Korea/Japan
+2002 FIFA World Cup,6/30/2002,Germany,Brazil,0,2,,,Yokohama ,Final,69029,2002,Korea/Japan
+2006 FIFA World Cup,6/9/2006,Germany,Costa Rica,4,2,,,Munich ,Group stage,66000,2006,Germany
+2006 FIFA World Cup,6/9/2006,Poland,Ecuador,0,2,,,Gelsenkirchen ,Group stage,52000,2006,Germany
+2006 FIFA World Cup,6/10/2006,Argentina,Ivory Coast,2,1,,,Hamburg ,Group stage,49480,2006,Germany
+2006 FIFA World Cup,6/10/2006,England,Paraguay,1,0,,,Frankfurt/Main ,Group stage,48000,2006,Germany
+2006 FIFA World Cup,6/10/2006,Trinidad and Tobago,Sweden,0,0,,,Dortmund ,Group stage,62959,2006,Germany
+2006 FIFA World Cup,6/11/2006,Angola,Portugal,0,1,,,Cologne ,Group stage,45000,2006,Germany
+2006 FIFA World Cup,6/11/2006,Mexico,Iran,3,1,,,Nuremberg ,Group stage,41000,2006,Germany
+2006 FIFA World Cup,6/11/2006,Serbia and Montenegro,Netherlands,0,1,,,Leipzig ,Group stage,43000,2006,Germany
+2006 FIFA World Cup,6/12/2006,Australia,Japan,3,1,,,Kaiserslautern ,Group stage,46000,2006,Germany
+2006 FIFA World Cup,6/12/2006,Italy,Ghana,2,0,,,Hanover ,Group stage,43000,2006,Germany
+2006 FIFA World Cup,6/12/2006,USA,Czech Republic,0,3,,,Gelsenkirchen ,Group stage,52000,2006,Germany
+2006 FIFA World Cup,6/13/2006,Brazil,Croatia,1,0,,,Berlin ,Group stage,72000,2006,Germany
+2006 FIFA World Cup,6/13/2006,France,Switzerland,0,0,,,Stuttgart ,Group stage,52000,2006,Germany
+2006 FIFA World Cup,6/13/2006,South Korea,Togo,2,1,,,Frankfurt/Main ,Group stage,48000,2006,Germany
+2006 FIFA World Cup,6/14/2006,Germany,Poland,1,0,,,Dortmund ,Group stage,65000,2006,Germany
+2006 FIFA World Cup,6/14/2006,Spain,Ukraine,4,0,,,Leipzig ,Group stage,43000,2006,Germany
+2006 FIFA World Cup,6/14/2006,Tunisia,Saudi Arabia,2,2,,,Munich ,Group stage,66000,2006,Germany
+2006 FIFA World Cup,6/15/2006,Ecuador,Costa Rica,3,0,,,Hamburg ,Group stage,50000,2006,Germany
+2006 FIFA World Cup,6/15/2006,England,Trinidad and Tobago,2,0,,,Nuremberg ,Group stage,41000,2006,Germany
+2006 FIFA World Cup,6/15/2006,Sweden,Paraguay,1,0,,,Berlin ,Group stage,72000,2006,Germany
+2006 FIFA World Cup,6/16/2006,Argentina,Serbia and Montenegro,6,0,,,Gelsenkirchen ,Group stage,52000,2006,Germany
+2006 FIFA World Cup,6/16/2006,Mexico,Angola,0,0,,,Hanover ,Group stage,43000,2006,Germany
+2006 FIFA World Cup,6/16/2006,Netherlands,Ivory Coast,2,1,,,Stuttgart ,Group stage,52000,2006,Germany
+2006 FIFA World Cup,6/17/2006,Czech Republic,Ghana,0,2,,,Cologne ,Group stage,45000,2006,Germany
+2006 FIFA World Cup,6/17/2006,Italy,USA,1,1,,,Kaiserslautern ,Group stage,46000,2006,Germany
+2006 FIFA World Cup,6/17/2006,Portugal,Iran,2,0,,,Frankfurt/Main ,Group stage,48000,2006,Germany
+2006 FIFA World Cup,6/18/2006,Brazil,Australia,2,0,,,Munich ,Group stage,66000,2006,Germany
+2006 FIFA World Cup,6/18/2006,France,South Korea,1,1,,,Leipzig ,Group stage,43000,2006,Germany
+2006 FIFA World Cup,6/18/2006,Japan,Croatia,0,0,,,Nuremberg ,Group stage,41000,2006,Germany
+2006 FIFA World Cup,6/19/2006,Saudi Arabia,Ukraine,0,4,,,Hamburg ,Group stage,50000,2006,Germany
+2006 FIFA World Cup,6/19/2006,Spain,Tunisia,3,1,,,Stuttgart ,Group stage,52000,2006,Germany
+2006 FIFA World Cup,6/19/2006,Togo,Switzerland,0,2,,,Dortmund ,Group stage,65000,2006,Germany
+2006 FIFA World Cup,6/20/2006,Costa Rica,Poland,1,2,,,Hanover ,Group stage,43000,2006,Germany
+2006 FIFA World Cup,6/20/2006,Ecuador,Germany,0,3,,,Berlin ,Group stage,72000,2006,Germany
+2006 FIFA World Cup,6/20/2006,Paraguay,Trinidad and Tobago,2,0,,,Kaiserslautern ,Group stage,46000,2006,Germany
+2006 FIFA World Cup,6/20/2006,Sweden,England,2,2,,,Cologne ,Group stage,45000,2006,Germany
+2006 FIFA World Cup,6/21/2006,Ivory Coast,Serbia and Montenegro,3,2,,,Munich ,Group stage,66000,2006,Germany
+2006 FIFA World Cup,6/21/2006,Iran,Angola,1,1,,,Leipzig ,Group stage,38000,2006,Germany
+2006 FIFA World Cup,6/21/2006,Netherlands,Argentina,0,0,,,Frankfurt/Main ,Group stage,48000,2006,Germany
+2006 FIFA World Cup,6/21/2006,Portugal,Mexico,2,1,,,Gelsenkirchen ,Group stage,52000,2006,Germany
+2006 FIFA World Cup,6/22/2006,Croatia,Australia,2,2,,,Stuttgart ,Group stage,52000,2006,Germany
+2006 FIFA World Cup,6/22/2006,Czech Republic,Italy,0,2,,,Hamburg ,Group stage,50000,2006,Germany
+2006 FIFA World Cup,6/22/2006,Ghana,USA,2,1,,,Nuremberg ,Group stage,41000,2006,Germany
+2006 FIFA World Cup,6/22/2006,Japan,Brazil,1,4,,,Dortmund ,Group stage,65000,2006,Germany
+2006 FIFA World Cup,6/23/2006,Saudi Arabia,Spain,0,1,,,Kaiserslautern ,Group stage,46000,2006,Germany
+2006 FIFA World Cup,6/23/2006,Switzerland,South Korea,2,0,,,Hanover ,Group stage,43000,2006,Germany
+2006 FIFA World Cup,6/23/2006,Togo,France,0,2,,,Cologne ,Group stage,45000,2006,Germany
+2006 FIFA World Cup,6/23/2006,Ukraine,Tunisia,1,0,,,Berlin ,Group stage,72000,2006,Germany
+2006 FIFA World Cup,6/24/2006,Argentina,Mexico,2,1,,,Leipzig ,Round of 16,43000,2006,Germany
+2006 FIFA World Cup,6/24/2006,Germany,Sweden,2,0,,,Munich ,Round of 16,66000,2006,Germany
+2006 FIFA World Cup,6/25/2006,England,Ecuador,1,0,,,Stuttgart ,Round of 16,52000,2006,Germany
+2006 FIFA World Cup,6/25/2006,Portugal,Netherlands,1,0,,,Nuremberg ,Round of 16,41000,2006,Germany
+2006 FIFA World Cup,6/26/2006,Italy,Australia,1,0,,,Kaiserslautern ,Round of 16,46000,2006,Germany
+2006 FIFA World Cup,6/26/2006,Switzerland,Ukraine,0,0,,,Cologne ,Round of 16,45000,2006,Germany
+2006 FIFA World Cup,6/27/2006,Brazil,Ghana,3,0,,,Dortmund ,Round of 16,65000,2006,Germany
+2006 FIFA World Cup,6/27/2006,Spain,France,1,3,,,Hanover ,Round of 16,43000,2006,Germany
+2006 FIFA World Cup,6/30/2006,Germany,Argentina,1,1,4,2,Berlin ,Quarter-finals,72000,2006,Germany
+2006 FIFA World Cup,6/30/2006,Italy,Ukraine,3,0,,,Hamburg ,Quarter-finals,50000,2006,Germany
+2006 FIFA World Cup,7/1/2006,Brazil,France,0,1,,,Frankfurt/Main ,Quarter-finals,48000,2006,Germany
+2006 FIFA World Cup,7/1/2006,England,Portugal,0,0,,,Gelsenkirchen ,Quarter-finals,52000,2006,Germany
+2006 FIFA World Cup,7/4/2006,Germany,Italy,0,2,,,Dortmund ,Semi-finals,65000,2006,Germany
+2006 FIFA World Cup,7/5/2006,Portugal,France,0,1,,,Munich ,Semi-finals,66000,2006,Germany
+2006 FIFA World Cup,7/8/2006,Germany,Portugal,3,1,,,Stuttgart ,Match for third place,52000,2006,Germany
+2006 FIFA World Cup,7/9/2006,Italy,France,1,1,5,3,Berlin ,Final,69000,2006,Germany
+2010 FIFA World Cup,6/11/2010,South Africa,Mexico,1,1,,,Johannesburg,Group stage,84490,2010,South Africa
+2010 FIFA World Cup,6/11/2010,Uruguay,France,0,0,,,Cape Town,Group stage,64100,2010,South Africa
+2010 FIFA World Cup,6/12/2010,Argentina,Nigeria,1,0,,,Johannesburg,Group stage,54331,2010,South Africa
+2010 FIFA World Cup,6/12/2010,England,USA,1,1,,,Rustenburg,Group stage,44646,2010,South Africa
+2010 FIFA World Cup,6/12/2010,South Korea,Greece,2,0,,,Nelson Mandela Bay,Group stage,54331,2010,South Africa
+2010 FIFA World Cup,6/13/2010,Algeria,Slovenia,0,1,,,Polokwane,Group stage,30325,2010,South Africa
+2010 FIFA World Cup,6/13/2010,Germany,Australia,4,0,,,Durban,Group stage,66990,2010,South Africa
+2010 FIFA World Cup,6/13/2010,Serbia,Ghana,0,1,,,Tshwane,Group stage,38833,2010,South Africa
+2010 FIFA World Cup,6/14/2010,Italy,Paraguay,1,1,,,Cape Town,Group stage,38229,2010,South Africa
+2010 FIFA World Cup,6/14/2010,Japan,Cameroon,1,0,,,Mangaung,Group stage,32660,2010,South Africa
+2010 FIFA World Cup,6/14/2010,Netherlands,Denmark,2,0,,,Johannesburg,Group stage,83465,2010,South Africa
+2010 FIFA World Cup,6/15/2010,Brazil,North Korea,2,1,,,Johannesburg,Group stage,54331,2010,South Africa
+2010 FIFA World Cup,6/15/2010,Ivory Coast,Portugal,0,0,,,Nelson Mandela Bay,Group stage,32660,2010,South Africa
+2010 FIFA World Cup,6/15/2010,New Zealand,Slovakia,1,1,,,Rustenburg,Group stage,23871,2010,South Africa
+2010 FIFA World Cup,6/16/2010,Honduras,Chile,0,1,,,Nelspruit,Group stage,30925,2010,South Africa
+2010 FIFA World Cup,6/16/2010,South Africa,Uruguay,0,3,,,Tshwane,Group stage,63644,2010,South Africa
+2010 FIFA World Cup,6/16/2010,Spain,Switzerland,0,1,,,Durban,Group stage,62453,2010,South Africa
+2010 FIFA World Cup,6/17/2010,Argentina,South Korea,4,1,,,Johannesburg,Group stage,84377,2010,South Africa
+2010 FIFA World Cup,6/17/2010,France,Mexico,0,2,,,Polokwane,Group stage,49958,2010,South Africa
+2010 FIFA World Cup,6/17/2010,Greece,Nigeria,2,1,,,Mangaung,Group stage,35979,2010,South Africa
+2010 FIFA World Cup,6/18/2010,England,Algeria,0,0,,,Cape Town,Group stage,36873,2010,South Africa
+2010 FIFA World Cup,6/18/2010,Germany,Serbia,0,1,,,Nelson Mandela Bay,Group stage,40583,2010,South Africa
+2010 FIFA World Cup,6/18/2010,Slovenia,USA,2,2,,,Johannesburg,Group stage,45573,2010,South Africa
+2010 FIFA World Cup,6/19/2010,Cameroon,Denmark,1,2,,,Tshwane,Group stage,32660,2010,South Africa
+2010 FIFA World Cup,6/19/2010,Ghana,Australia,1,1,,,Rustenburg,Group stage,38229,2010,South Africa
+2010 FIFA World Cup,6/19/2010,Netherlands,Japan,1,0,,,Durban,Group stage,62453,2010,South Africa
+2010 FIFA World Cup,6/20/2010,Brazil,Ivory Coast,3,1,,,Johannesburg,Group stage,84455,2010,South Africa
+2010 FIFA World Cup,6/20/2010,Italy,New Zealand,1,1,,,Nelspruit,Group stage,32660,2010,South Africa
+2010 FIFA World Cup,6/20/2010,Slovakia,Paraguay,0,2,,,Mangaung,Group stage,30920,2010,South Africa
+2010 FIFA World Cup,6/21/2010,Chile,Switzerland,1,0,,,Nelson Mandela Bay,Group stage,34872,2010,South Africa
+2010 FIFA World Cup,6/21/2010,Portugal,North Korea,7,0,,,Cape Town,Group stage,36873,2010,South Africa
+2010 FIFA World Cup,6/21/2010,Spain,Honduras,2,0,,,Johannesburg,Group stage,43766,2010,South Africa
+2010 FIFA World Cup,6/22/2010,France,South Africa,1,2,,,Mangaung,Group stage,63644,2010,South Africa
+2010 FIFA World Cup,6/22/2010,Greece,Argentina,0,2,,,Polokwane,Group stage,40620,2010,South Africa
+2010 FIFA World Cup,6/22/2010,Mexico,Uruguay,0,1,,,Rustenburg,Group stage,35831,2010,South Africa
+2010 FIFA World Cup,6/22/2010,Nigeria,South Korea,2,2,,,Durban,Group stage,30925,2010,South Africa
+2010 FIFA World Cup,6/23/2010,Australia,Serbia,2,1,,,Nelspruit,Group stage,30919,2010,South Africa
+2010 FIFA World Cup,6/23/2010,Ghana,Germany,0,1,,,Johannesburg,Group stage,83391,2010,South Africa
+2010 FIFA World Cup,6/23/2010,Slovenia,England,0,1,,,Nelson Mandela Bay,Group stage,36254,2010,South Africa
+2010 FIFA World Cup,6/23/2010,USA,Algeria,1,0,,,Tshwane,Group stage,35827,2010,South Africa
+2010 FIFA World Cup,6/24/2010,Cameroon,Netherlands,1,2,,,Cape Town,Group stage,30925,2010,South Africa
+2010 FIFA World Cup,6/24/2010,Denmark,Japan,1,3,,,Rustenburg,Group stage,34808,2010,South Africa
+2010 FIFA World Cup,6/24/2010,Paraguay,New Zealand,0,0,,,Polokwane,Group stage,36250,2010,South Africa
+2010 FIFA World Cup,6/24/2010,Slovakia,Italy,3,2,,,Johannesburg,Group stage,29050,2010,South Africa
+2010 FIFA World Cup,6/25/2010,Chile,Spain,1,2,,,Tshwane,Group stage,52943,2010,South Africa
+2010 FIFA World Cup,6/25/2010,North Korea,Ivory Coast,0,3,,,Nelspruit,Group stage,30925,2010,South Africa
+2010 FIFA World Cup,6/25/2010,Portugal,Brazil,0,0,,,Durban,Group stage,62712,2010,South Africa
+2010 FIFA World Cup,6/25/2010,Switzerland,Honduras,0,0,,,Mangaung,Group stage,34839,2010,South Africa
+2010 FIFA World Cup,6/26/2010,Uruguay,South Korea,2,1,,,Nelson Mandela Bay,Round of 16,34876,2010,South Africa
+2010 FIFA World Cup,6/26/2010,USA,Ghana,1,2,,,Rustenburg,Round of 16,34976,2010,South Africa
+2010 FIFA World Cup,6/27/2010,Argentina,Mexico,3,1,,,Johannesburg,Round of 16,45325,2010,South Africa
+2010 FIFA World Cup,6/27/2010,Germany,England,4,1,,,Mangaung,Round of 16,40510,2010,South Africa
+2010 FIFA World Cup,6/28/2010,Brazil,Chile,3,0,,,Johannesburg,Round of 16,48584,2010,South Africa
+2010 FIFA World Cup,6/28/2010,Netherlands,Slovakia,2,1,,,Durban,Round of 16,38893,2010,South Africa
+2010 FIFA World Cup,6/29/2010,Paraguay,Japan,0,0,5,3,Tshwane,Round of 16,37318,2010,South Africa
+2010 FIFA World Cup,6/29/2010,Spain,Portugal,1,0,,,Cape Town,Round of 16,42962,2010,South Africa
+2010 FIFA World Cup,7/2/2010,Netherlands,Brazil,2,1,,,Nelson Mandela Bay,Quarter-finals,42286,2010,South Africa
+2010 FIFA World Cup,7/2/2010,Uruguay,Ghana,1,1,4,2,Johannesburg,Quarter-finals,84017,2010,South Africa
+2010 FIFA World Cup,7/3/2010,Argentina,Germany,0,4,,,Cape Town,Quarter-finals,64100,2010,South Africa
+2010 FIFA World Cup,7/3/2010,Paraguay,Spain,0,1,,,Johannesburg,Quarter-finals,34850,2010,South Africa
+2010 FIFA World Cup,7/6/2010,Germany,Spain,0,1,,,Durban,Semi-finals,60960,2010,South Africa
+2010 FIFA World Cup,7/6/2010,Uruguay,Netherlands,2,3,,,Cape Town,Semi-finals,62479,2010,South Africa
+2010 FIFA World Cup,7/10/2010,Uruguay,Germany,2,3,,,Nelson Mandela Bay,Match for third place,36254,2010,South Africa
+2010 FIFA World Cup,7/11/2010,Netherlands,Spain,0,1,,,Johannesburg,Final,84490,2010,South Africa
+2014 FIFA World Cup,6/12/2014,Brazil,Croatia,3,1,,,São Paulo,Group stage,62103,2014,Brazil
+2014 FIFA World Cup,6/13/2014,Mexico,Cameroon,1,0,,,Natal,Group stage,39216,2014,Brazil
+2014 FIFA World Cup,6/13/2014,Spain,Netherlands,1,5,,,Salvador,Group stage,48173,2014,Brazil
+2014 FIFA World Cup,6/13/2014,Chile,Australia,3,1,,,Cuiabá,Group stage,40275,2014,Brazil
+2014 FIFA World Cup,6/14/2014,Colombia,Greece,3,0,,,Belo Horizonte,Group stage,57174,2014,Brazil
+2014 FIFA World Cup,6/14/2014,Uruguay,Costa Rica,1,3,,,Fortaleza,Group stage,58679,2014,Brazil
+2014 FIFA World Cup,6/14/2014,England,Italy,1,2,,,Manaus,Group stage,39800,2014,Brazil
+2014 FIFA World Cup,6/14/2014,Ivory Coast,Japan,2,1,,,Recife,Group stage,39760,2014,Brazil
+2014 FIFA World Cup,6/15/2014,Switzerland,Ecuador,2,1,,,Brasília,Group stage,68351,2014,Brazil
+2014 FIFA World Cup,6/15/2014,France,Honduras,3,0,,,Porto Alegre,Group stage,43927,2014,Brazil
+2014 FIFA World Cup,6/15/2014,Argentina,Bosnia and Herzegovina,2,1,,,Rio de Janeiro,Group stage,74738,2014,Brazil
+2014 FIFA World Cup,6/16/2014,Germany,Portugal,4,0,,,Salvador,Group stage,51081,2014,Brazil
+2014 FIFA World Cup,6/16/2014,Iran,Nigeria,0,0,,,Curitiba,Group stage,39081,2014,Brazil
+2014 FIFA World Cup,6/16/2014,Ghana,United States,1,2,,,Natal,Group stage,39760,2014,Brazil
+2014 FIFA World Cup,6/17/2014,Belgium,Algeria,2,1,,,Belo Horizonte,Group stage,56800,2014,Brazil
+2014 FIFA World Cup,6/17/2014,Brazil,Mexico,0,0,,,Fortaleza,Group stage,60342,2014,Brazil
+2014 FIFA World Cup,6/17/2014,Russia,South Korea,1,1,,,Cuiabá,Group stage,37603,2014,Brazil
+2014 FIFA World Cup,6/18/2014,Australia,Netherlands,2,3,,,Porto Alegre,Group stage,42877,2014,Brazil
+2014 FIFA World Cup,6/18/2014,Spain,Chile,0,2,,,Rio de Janeiro,Group stage,74101,2014,Brazil
+2014 FIFA World Cup,6/18/2014,Cameroon,Croatia,0,4,,,Manaus,Group stage,39982,2014,Brazil
+2014 FIFA World Cup,6/19/2014,Colombia,Ivory Coast,2,1,,,Brasília,Group stage,68748,2014,Brazil
+2014 FIFA World Cup,6/19/2014,Uruguay,England,2,1,,,São Paulo,Group stage,62575,2014,Brazil
+2014 FIFA World Cup,6/19/2014,Japan,Greece,0,0,,,Natal,Group stage,39485,2014,Brazil
+2014 FIFA World Cup,6/20/2014,Italy,Costa Rica,0,1,,,Recife,Group stage,40285,2014,Brazil
+2014 FIFA World Cup,6/20/2014,Switzerland,France,2,5,,,Salvador,Group stage,51003,2014,Brazil
+2014 FIFA World Cup,6/20/2014,Honduras,Ecuador,1,2,,,Curitiba,Group stage,39224,2014,Brazil
+2014 FIFA World Cup,6/21/2014,Argentina,Iran,1,0,,,Belo Horizonte,Group stage,57698,2014,Brazil
+2014 FIFA World Cup,6/21/2014,Germany,Ghana,2,2,,,Fortaleza,Group stage,59621,2014,Brazil
+2014 FIFA World Cup,6/21/2014,Nigeria,Bosnia and Herzegovina,1,0,,,Cuiabá,Group stage,40499,2014,Brazil
+2014 FIFA World Cup,6/22/2014,Belgium,Russia,1,0,,,Rio de Janeiro,Group stage,73819,2014,Brazil
+2014 FIFA World Cup,6/22/2014,South Korea,Algeria,2,4,,,Porto Alegre,Group stage,42732,2014,Brazil
+2014 FIFA World Cup,6/22/2014,United States,Portugal,2,2,,,Manaus,Group stage,40123,2014,Brazil
+2014 FIFA World Cup,6/23/2014,Netherlands,Chile,2,0,,,São Paulo,Group stage,62996,2014,Brazil
+2014 FIFA World Cup,6/23/2014,Australia,Spain,0,3,,,Curitiba,Group stage,39375,2014,Brazil
+2014 FIFA World Cup,6/23/2014,Cameroon,Brazil,1,4,,,Brasília,Group stage,69112,2014,Brazil
+2014 FIFA World Cup,6/23/2014,Croatia,Mexico,1,3,,,Recife,Group stage,41212,2014,Brazil
+2014 FIFA World Cup,6/24/2014,Italy,Uruguay,0,1,,,Natal,Group stage,39706,2014,Brazil
+2014 FIFA World Cup,6/24/2014,Costa Rica,England,0,0,,,Belo Horizonte,Group stage,57823,2014,Brazil
+2014 FIFA World Cup,6/24/2014,Japan,Colombia,1,4,,,Cuiabá,Group stage,40340,2014,Brazil
+2014 FIFA World Cup,6/24/2014,Greece,Ivory Coast,2,1,,,Fortaleza,Group stage,59095,2014,Brazil
+2014 FIFA World Cup,6/25/2014,Nigeria,Argentina,2,3,,,Porto Alegre,Group stage,43285,2014,Brazil
+2014 FIFA World Cup,6/25/2014,Bosnia and Herzegovina,Iran,3,1,,,Salvador,Group stage,48011,2014,Brazil
+2014 FIFA World Cup,6/25/2014,Honduras,Switzerland,0,3,,,Manaus,Group stage,40322,2014,Brazil
+2014 FIFA World Cup,6/25/2014,Ecuador,France,0,0,,,Rio de Janeiro,Group stage,73749,2014,Brazil
+2014 FIFA World Cup,6/26/2014,United States,Germany,0,1,,,Recife,Group stage,41876,2014,Brazil
+2014 FIFA World Cup,6/26/2014,Portugal,Ghana,2,1,,,Brasília,Group stage,67540,2014,Brazil
+2014 FIFA World Cup,6/26/2014,South Korea,Belgium,0,1,,,São Paulo,Group stage,61397,2014,Brazil
+2014 FIFA World Cup,6/26/2014,Algeria,Russia,1,1,,,Curitiba,Group stage,39311,2014,Brazil
+2014 FIFA World Cup,6/28/2014,Brazil,Chile,1,1,3,2,Belo Horizonte,Round of 16,57714,2014,Brazil
+2014 FIFA World Cup,6/28/2014,Colombia,Uruguay,2,0,,,Rio de Janeiro,Round of 16,73804,2014,Brazil
+2014 FIFA World Cup,6/29/2014,Netherlands,Mexico,2,1,,,Fortaleza,Round of 16,58817,2014,Brazil
+2014 FIFA World Cup,6/29/2014,Costa Rica,Greece,1,1,5,3,Recife,Round of 16,41242,2014,Brazil
+2014 FIFA World Cup,6/30/2014,France,Nigeria,2,0,,,Brasília,Round of 16,67882,2014,Brazil
+2014 FIFA World Cup,6/30/2014,Germany,Algeria,2,1,,,Porto Alegre,Round of 16,43063,2014,Brazil
+2014 FIFA World Cup,7/1/2014,Argentina,Switzerland,1,0,,,São Paulo,Round of 16,63255,2014,Brazil
+2014 FIFA World Cup,7/1/2014,Belgium,United States,2,1,,,Salvador,Round of 16,51227,2014,Brazil
+2014 FIFA World Cup,7/4/2014,Brazil,Colombia,2,1,,,Fortaleza,Quarter-finals,60342,2014,Brazil
+2014 FIFA World Cup,7/4/2014,France,Germany,0,1,,,Rio de Janeiro,Quarter-finals,74240,2014,Brazil
+2014 FIFA World Cup,7/5/2014,Argentina,Belgium,1,0,,,Brasília,Quarter-finals,68551,2014,Brazil
+2014 FIFA World Cup,7/5/2014,Netherlands,Costa Rica,0,0,4,3,Salvador,Quarter-finals,51179,2014,Brazil
+2014 FIFA World Cup,7/8/2014,Brazil,Germany,1,7,,,Belo Horizonte,Semi-finals,58141,2014,Brazil
+2014 FIFA World Cup,7/9/2014,Netherlands,Argentina,0,0,2,4,São Paulo,Semi-finals,63267,2014,Brazil
+2014 FIFA World Cup,7/12/2014,Brazil,Netherlands,0,3,,,Brasília,Third-place,68034,2014,Brazil
+2014 FIFA World Cup,7/13/2014,Germany,Argentina,1,0,,,Rio de Janeiro,Final,74738,2014,Brazil
+2018 FIFA World Cup,6/14/2018,Russia,Saudi Arabia,5,0,,,Moscow,Group stage,78011,2018,Russia
+2018 FIFA World Cup,6/15/2018,Egypt,Uruguay,0,1,,,Ekaterinburg,Group stage,27015,2018,Russia
+2018 FIFA World Cup,6/15/2018,Morocco,Iran,0,1,,,St. Petersburg,Group stage,62548,2018,Russia
+2018 FIFA World Cup,6/15/2018,Portugal,Spain,3,3,,,Sochi,Group stage,43866,2018,Russia
+2018 FIFA World Cup,6/16/2018,France,Australia,2,1,,,Kazan,Group stage,41279,2018,Russia
+2018 FIFA World Cup,6/16/2018,Argentina,Iceland,1,1,,,Moscow,Group stage,44190,2018,Russia
+2018 FIFA World Cup,6/16/2018,Peru,Denmark,0,1,,,Saransk,Group stage,40502,2018,Russia
+2018 FIFA World Cup,6/16/2018,Croatia,Nigeria,2,0,,,Kaliningrad,Group stage,31136,2018,Russia
+2018 FIFA World Cup,6/17/2018,Costa Rica,Serbia,0,1,,,Samara,Group stage,41432,2018,Russia
+2018 FIFA World Cup,6/17/2018,Germany,Mexico,0,1,,,Moscow,Group stage,78011,2018,Russia
+2018 FIFA World Cup,6/17/2018,Brazil,Switzerland,1,1,,,Rostov-on-Don,Group stage,43109,2018,Russia
+2018 FIFA World Cup,6/18/2018,Sweden,South Korea,1,0,,,Nizhny Novgorod,Group stage,32543,2018,Russia
+2018 FIFA World Cup,6/18/2018,Belgium,Panama,3,0,,,Sochi,Group stage,40842,2018,Russia
+2018 FIFA World Cup,6/18/2018,Tunisia,England,1,2,,,Volgograd,Group stage,41064,2018,Russia
+2018 FIFA World Cup,6/19/2018,Colombia,Japan,1,2,,,Saransk,Group stage,40842,2018,Russia
+2018 FIFA World Cup,6/19/2018,Poland,Senegal,1,2,,,Moscow,Group stage,44190,2018,Russia
+2018 FIFA World Cup,6/19/2018,Russia,Egypt,3,1,,,St. Petersburg,Group stage,64468,2018,Russia
+2018 FIFA World Cup,6/20/2018,Portugal,Morocco,1,0,,,Moscow,Group stage,78011,2018,Russia
+2018 FIFA World Cup,6/20/2018,Uruguay,Saudi Arabia,1,0,,,Rostov-on-Don,Group stage,42678,2018,Russia
+2018 FIFA World Cup,6/20/2018,Iran,Spain,0,1,,,Kazan,Group stage,42718,2018,Russia
+2018 FIFA World Cup,6/21/2018,Denmark,Australia,1,1,,,Samara,Group stage,40727,2018,Russia
+2018 FIFA World Cup,6/21/2018,France,Peru,1,0,,,Ekaterinburg,Group stage,32789,2018,Russia
+2018 FIFA World Cup,6/21/2018,Argentina,Croatia,0,3,,,Nizhny Novgorod,Group stage,42718,2018,Russia
+2018 FIFA World Cup,6/22/2018,Brazil,Costa Rica,2,0,,,St. Petersburg,Group stage,64468,2018,Russia
+2018 FIFA World Cup,6/22/2018,Nigeria,Iceland,2,0,,,Volgograd,Group stage,40904,2018,Russia
+2018 FIFA World Cup,6/22/2018,Serbia,Switzerland,1,2,,,Kaliningrad,Group stage,33973,2018,Russia
+2018 FIFA World Cup,6/23/2018,Belgium,Tunisia,5,2,,,Moscow,Group stage,44190,2018,Russia
+2018 FIFA World Cup,6/23/2018,South Korea,Mexico,1,2,,,Rostov-on-Don,Group stage,43472,2018,Russia
+2018 FIFA World Cup,6/23/2018,Germany,Sweden,2,1,,,Sochi,Group stage,44287,2018,Russia
+2018 FIFA World Cup,6/24/2018,England,Panama,6,1,,,Nizhny Novgorod,Group stage,43319,2018,Russia
+2018 FIFA World Cup,6/24/2018,Japan,Senegal,2,2,,,Ekaterinburg,Group stage,32572,2018,Russia
+2018 FIFA World Cup,6/24/2018,Poland,Colombia,0,3,,,Kazan,Group stage,42873,2018,Russia
+2018 FIFA World Cup,6/25/2018,Uruguay,Russia,3,0,,,Samara,Group stage,41970,2018,Russia
+2018 FIFA World Cup,6/25/2018,Saudi Arabia,Egypt,2,1,,,Volgograd,Group stage,36823,2018,Russia
+2018 FIFA World Cup,6/25/2018,Spain,Morocco,2,2,,,Kaliningrad,Group stage,33973,2018,Russia
+2018 FIFA World Cup,6/25/2018,Iran,Portugal,1,1,,,Saransk,Group stage,41685,2018,Russia
+2018 FIFA World Cup,6/26/2018,Denmark,France,0,0,,,Moscow,Group stage,78011,2018,Russia
+2018 FIFA World Cup,6/26/2018,Australia,Peru,0,2,,,Sochi,Group stage,44073,2018,Russia
+2018 FIFA World Cup,6/26/2018,Nigeria,Argentina,1,2,,,St. Petersburg,Group stage,64468,2018,Russia
+2018 FIFA World Cup,6/26/2018,Iceland,Croatia,1,2,,,Rostov-on-Don,Group stage,43472,2018,Russia
+2018 FIFA World Cup,6/27/2018,South Korea,Germany,2,0,,,Kazan,Group stage,41835,2018,Russia
+2018 FIFA World Cup,6/27/2018,Mexico,Sweden,0,3,,,Ekaterinburg,Group stage,33061,2018,Russia
+2018 FIFA World Cup,6/27/2018,Serbia,Brazil,0,2,,,Moscow,Group stage,78011,2018,Russia
+2018 FIFA World Cup,6/27/2018,Switzerland,Costa Rica,2,2,,,Nizhny Novgorod,Group stage,43319,2018,Russia
+2018 FIFA World Cup,6/28/2018,Japan,Poland,0,1,,,Volgograd,Group stage,36823,2018,Russia
+2018 FIFA World Cup,6/28/2018,Senegal,Colombia,0,1,,,Samara,Group stage,41970,2018,Russia
+2018 FIFA World Cup,6/28/2018,England,Belgium,0,1,,,Kaliningrad,Group stage,33973,2018,Russia
+2018 FIFA World Cup,6/28/2018,Panama,Tunisia,1,2,,,Saransk,Group stage,41685,2018,Russia
+2018 FIFA World Cup,6/30/2018,France,Argentina,4,3,,,Kazan,Round of 16,42873,2018,Russia
+2018 FIFA World Cup,6/30/2018,Uruguay,Portugal,2,1,,,Sochi,Round of 16,44190,2018,Russia
+2018 FIFA World Cup,7/1/2018,Spain,Russia,1,1,3,4,Moscow,Round of 16,78011,2018,Russia
+2018 FIFA World Cup,7/1/2018,Croatia,Denmark,1,1,3,2,Nizhny Novgorod,Round of 16,43319,2018,Russia
+2018 FIFA World Cup,7/2/2018,Brazil,Mexico,2,0,,,Samara,Round of 16,41970,2018,Russia
+2018 FIFA World Cup,7/2/2018,Belgium,Japan,3,2,,,Rostov-on-Don,Round of 16,43472,2018,Russia
+2018 FIFA World Cup,7/3/2018,Sweden,Switzerland,1,0,,,Saint Petersburg,Round of 16,64042,2018,Russia
+2018 FIFA World Cup,7/3/2018,Colombia,England,1,1,3,4,Moscow,Round of 16,44190,2018,Russia
+2018 FIFA World Cup,7/6/2018,Uruguay,France,0,2,,,Nizhny Novgorod,Quarter-finals,43319,2018,Russia
+2018 FIFA World Cup,7/6/2018,Brazil,Belgium,1,2,,,Kazan,Quarter-finals,42873,2018,Russia
+2018 FIFA World Cup,7/7/2018,Sweden,England,0,2,,,Samara,Quarter-finals,39991,2018,Russia
+2018 FIFA World Cup,7/7/2018,Russia,Croatia,2,2,3,4,Sochi,Quarter-finals,44287,2018,Russia
+2018 FIFA World Cup,7/10/2018,France,Belgium,1,0,,,Saint Petersburg,Semi-finals,64286,2018,Russia
+2018 FIFA World Cup,7/11/2018,Croatia,England,2,1,,,Moscow,Semi-finals,78011,2018,Russia
+2018 FIFA World Cup,7/14/2018,Belgium,England,2,0,,,Saint Petersburg,Third-place,64406,2018,Russia
+2018 FIFA World Cup,7/15/2018,France,Croatia,4,2,,,Moscow,Final,78011,2018,Russia
+2022 FIFA World Cup,11/20/2022,Qatar,Ecuador,0,2,,,Qatar,Group stage,67372,2022,Qatar
+2022 FIFA World Cup,11/21/2022,England,Iran,6,2,,,Qatar,Group stage,45334,2022,Qatar
+2022 FIFA World Cup,11/21/2022,Senegal,Netherlands,0,2,,,Qatar,Group stage,41721,2022,Qatar
+2022 FIFA World Cup,11/21/2022,United States,Wales,1,1,,,Qatar,Group stage,43418,2022,Qatar
+2022 FIFA World Cup,11/22/2022,Argentina,Saudi Arabia,1,2,,,Qatar,Group stage,88012,2022,Qatar
+2022 FIFA World Cup,11/22/2022,Denmark,Tunisia,0,0,,,Qatar,Group stage,42925,2022,Qatar
+2022 FIFA World Cup,11/22/2022,France,Australia,4,1,,,Qatar,Group stage,40875,2022,Qatar
+2022 FIFA World Cup,11/22/2022,Mexico,Poland,0,0,,,Qatar,Group stage,39369,2022,Qatar
+2022 FIFA World Cup,11/23/2022,Belgium,Canada,1,0,,,Qatar,Group stage,40432,2022,Qatar
+2022 FIFA World Cup,11/23/2022,Germany,Japan,1,2,,,Qatar,Group stage,42608,2022,Qatar
+2022 FIFA World Cup,11/23/2022,Morocco,Croatia,0,0,,,Qatar,Group stage,59407,2022,Qatar
+2022 FIFA World Cup,11/23/2022,Spain,Costa Rica,7,0,,,Qatar,Group stage,40013,2022,Qatar
+2022 FIFA World Cup,11/24/2022,Brazil,Serbia,2,0,,,Qatar,Group stage,88103,2022,Qatar
+2022 FIFA World Cup,11/24/2022,Portugal,Ghana,3,2,,,Qatar,Group stage,42662,2022,Qatar
+2022 FIFA World Cup,11/24/2022,Switzerland,Cameroon,1,0,,,Qatar,Group stage,39089,2022,Qatar
+2022 FIFA World Cup,11/24/2022,Uruguay,South Korea,0,0,,,Qatar,Group stage,41663,2022,Qatar
+2022 FIFA World Cup,11/25/2022,England,United States,0,0,,,Qatar,Group stage,68463,2022,Qatar
+2022 FIFA World Cup,11/25/2022,Netherlands,Ecuador,1,1,,,Qatar,Group stage,44833,2022,Qatar
+2022 FIFA World Cup,11/25/2022,Qatar,Senegal,1,3,,,Qatar,Group stage,41797,2022,Qatar
+2022 FIFA World Cup,11/25/2022,Wales,Iran,0,2,,,Qatar,Group stage,40875,2022,Qatar
+2022 FIFA World Cup,11/26/2022,Argentina,Mexico,2,0,,,Qatar,Group stage,88966,2022,Qatar
+2022 FIFA World Cup,11/26/2022,France,Denmark,2,1,,,Qatar,Group stage,42860,2022,Qatar
+2022 FIFA World Cup,11/26/2022,Poland,Saudi Arabia,2,0,,,Qatar,Group stage,44259,2022,Qatar
+2022 FIFA World Cup,11/26/2022,Tunisia,Australia,0,1,,,Qatar,Group stage,41823,2022,Qatar
+2022 FIFA World Cup,11/27/2022,Belgium,Morocco,0,2,,,Qatar,Group stage,43738,2022,Qatar
+2022 FIFA World Cup,11/27/2022,Croatia,Canada,4,1,,,Qatar,Group stage,44374,2022,Qatar
+2022 FIFA World Cup,11/27/2022,Japan,Costa Rica,0,1,,,Qatar,Group stage,41479,2022,Qatar
+2022 FIFA World Cup,11/27/2022,Spain,Germany,1,1,,,Qatar,Group stage,68895,2022,Qatar
+2022 FIFA World Cup,11/28/2022,Brazil,Switzerland,1,0,,,Qatar,Group stage,43649,2022,Qatar
+2022 FIFA World Cup,11/28/2022,Cameroon,Serbia,3,3,,,Qatar,Group stage,39789,2022,Qatar
+2022 FIFA World Cup,11/28/2022,South Korea,Ghana,2,3,,,Qatar,Group stage,43983,2022,Qatar
+2022 FIFA World Cup,11/28/2022,Portugal,Uruguay,2,0,,,Qatar,Group stage,88668,2022,Qatar
+2022 FIFA World Cup,11/29/2022,Ecuador,Senegal,1,2,,,Qatar,Group stage,44569,2022,Qatar
+2022 FIFA World Cup,11/29/2022,Iran,United States,0,1,,,Qatar,Group stage,42127,2022,Qatar
+2022 FIFA World Cup,11/29/2022,Netherlands,Qatar,2,0,,,Qatar,Group stage,66784,2022,Qatar
+2022 FIFA World Cup,11/29/2022,Wales,England,0,3,,,Qatar,Group stage,44297,2022,Qatar
+2022 FIFA World Cup,11/30/2022,Australia,Denmark,1,0,,,Qatar,Group stage,41232,2022,Qatar
+2022 FIFA World Cup,11/30/2022,Poland,Argentina,0,2,,,Qatar,Group stage,44089,2022,Qatar
+2022 FIFA World Cup,11/30/2022,Saudi Arabia,Mexico,1,2,,,Qatar,Group stage,84985,2022,Qatar
+2022 FIFA World Cup,11/30/2022,Tunisia,France,1,0,,,Qatar,Group stage,43627,2022,Qatar
+2022 FIFA World Cup,12/1/2022,Canada,Morocco,1,2,,,Qatar,Group stage,43102,2022,Qatar
+2022 FIFA World Cup,12/1/2022,Costa Rica,Germany,2,4,,,Qatar,Group stage,67054,2022,Qatar
+2022 FIFA World Cup,12/1/2022,Croatia,Belgium,0,0,,,Qatar,Group stage,43984,2022,Qatar
+2022 FIFA World Cup,12/1/2022,Japan,Spain,2,1,,,Qatar,Group stage,44851,2022,Qatar
+2022 FIFA World Cup,12/2/2022,Cameroon,Brazil,1,0,,,Qatar,Group stage,85986,2022,Qatar
+2022 FIFA World Cup,12/2/2022,Ghana,Uruguay,0,2,,,Qatar,Group stage,43443,2022,Qatar
+2022 FIFA World Cup,12/2/2022,South Korea,Portugal,2,1,,,Qatar,Group stage,44097,2022,Qatar
+2022 FIFA World Cup,12/2/2022,Serbia,Switzerland,2,3,,,Qatar,Group stage,41378,2022,Qatar
+2022 FIFA World Cup,12/3/2022,Argentina ,Australia,2,1,,,Qatar,Round of 16,45032,2022,Qatar
+2022 FIFA World Cup,12/3/2022,Netherlands ,United States,3,1,,,Qatar,Round of 16,44846,2022,Qatar
+2022 FIFA World Cup,12/4/2022,England ,Senegal,3,0,,,Qatar,Round of 16,65985,2022,Qatar
+2022 FIFA World Cup,12/4/2022,France ,Poland,3,1,,,Qatar,Round of 16,40989,2022,Qatar
+2022 FIFA World Cup,12/5/2022,Brazil ,South Korea,4,1,,,Qatar,Round of 16,43847,2022,Qatar
+2022 FIFA World Cup,12/5/2022,Japan ,Croatia,1,1,1,3,Qatar,Round of 16,42523,2022,Qatar
+2022 FIFA World Cup,12/6/2022,Morocco ,Spain,0,0,3,0,Qatar,Round of 16,44667,2022,Qatar
+2022 FIFA World Cup,12/6/2022,Portugal ,Switzerland,6,1,,,Qatar,Round of 16,83720,2022,Qatar
+2022 FIFA World Cup,12/9/2022,Croatia ,Brazil,1,1,4,2,Qatar,Quarter-finals,43893,2022,Qatar
+2022 FIFA World Cup,12/9/2022,Netherlands ,Argentina,2,2,3,4,Qatar,Quarter-finals,88235,2022,Qatar
+2022 FIFA World Cup,12/10/2022,England ,France,1,2,,,Qatar,Quarter-finals,68895,2022,Qatar
+2022 FIFA World Cup,12/10/2022,Morocco ,Portugal,1,0,,,Qatar,Quarter-finals,44198,2022,Qatar
+2022 FIFA World Cup,12/13/2022,Argentina ,Croatia,3,0,,,Qatar,Semi-Finals,88966,2022,Qatar
+2022 FIFA World Cup,12/14/2022,France ,Morocco,2,0,,,Qatar,Semi-Finals,68294,2022,Qatar
+2022 FIFA World Cup,12/17/2022,Croatia ,Morocco,2,1,,,Qatar,Third-place,44137,2022,Qatar
+2022 FIFA World Cup,12/18/2022,Argentina ,France,3,3,4,2,Qatar,Final,88966,2022,Qatar
